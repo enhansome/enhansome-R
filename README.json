@@ -1,0 +1,2914 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rayshader",
+          "description": "2D and 3D data visualizations via rgl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-12T02:35:00Z",
+            "owner": "tylermorganwall",
+            "repo": "rayshader",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggforce",
+          "description": "ggplot2 extension framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-15T19:27:31Z",
+            "owner": "thomasp85",
+            "repo": "ggforce",
+            "stars": 956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vroom",
+          "description": "Fast reading of delimited files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-09T18:39:00Z",
+            "owner": "tidyverse",
+            "repo": "vroom",
+            "stars": 642
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "Integrated Development Environment",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "radian",
+          "description": "(formerly rtichoke) - A modern R console with syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T03:17:36Z",
+            "owner": "randy3k",
+            "repo": "radian",
+            "stars": 2285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRkernel",
+          "description": "R kernel for Jupyter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-30T07:24:08Z",
+            "owner": "IRkernel",
+            "repo": "IRkernel",
+            "stars": 1697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nvim-R",
+          "description": "Neovim plugin for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-05-02T12:13:09Z",
+            "owner": "jalvesaq",
+            "repo": "Vim-R",
+            "stars": 977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Text + R-IDE",
+          "description": "Add-on package for Sublime Text 2/3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-07T16:29:46Z",
+            "owner": "REditorSupport",
+            "repo": "sublime-ide-r",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextMate + r.tmblundle",
+          "description": "Add-on package for TextMate 1/2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-02-21T21:16:20Z",
+            "owner": "textmate",
+            "repo": "r.tmbundle",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Integrated Development Environments"
+    },
+    {
+      "description": "Packages change the way you use R.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purrr",
+          "description": "A FP package for R in the spirit of underscore.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-22T18:58:16Z",
+            "owner": "tidyverse",
+            "repo": "purrr",
+            "stars": 1401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magrittr",
+          "description": "Let's pipe it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-05T05:42:58Z",
+            "owner": "tidyverse",
+            "repo": "magrittr",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda.r",
+          "description": "Functional programming and simple pattern matching in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-01-02T18:37:52Z",
+            "owner": "zatonovo",
+            "repo": "lambda.r",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipeR",
+          "description": "Multi-paradigm Pipeline Implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-08-26T00:50:14Z",
+            "owner": "renkun-ken",
+            "repo": "pipeR",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Syntax"
+    },
+    {
+      "description": "Packages for cooking data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dplyr",
+          "description": "Fast data frames manipulation and database query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-02T15:25:25Z",
+            "owner": "tidyverse",
+            "repo": "dplyr",
+            "stars": 5056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data.table",
+          "description": "Fast data manipulation in a short and flexible syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-11T21:23:40Z",
+            "owner": "Rdatatable",
+            "repo": "data.table",
+            "stars": 3908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidyverse",
+          "description": "Easily install and load packages from the tidyverse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-06-18T20:15:42Z",
+            "owner": "tidyverse",
+            "repo": "tidyverse",
+            "stars": 1799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidyr",
+          "description": "Easily tidy data with spread and gather functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-02T17:43:26Z",
+            "owner": "tidyverse",
+            "repo": "tidyr",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lubridate",
+          "description": "A set of functions to work with dates and times.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-15T18:28:12Z",
+            "owner": "tidyverse",
+            "repo": "lubridate",
+            "stars": 801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzzyjoin",
+          "description": "Join tables together on inexact matching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-19T21:37:07Z",
+            "owner": "dgrtwo",
+            "repo": "fuzzyjoin",
+            "stars": 701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stringr",
+          "description": "Consistent API for string processing, built on top of stringi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-11-04T22:52:35Z",
+            "owner": "tidyverse",
+            "repo": "stringr",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataExplorer",
+          "description": "Fast exploratory data analysis with minimum code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-03-10T13:57:58Z",
+            "owner": "boxuancui",
+            "repo": "DataExplorer",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stringi",
+          "description": "ICU based string processing package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-30T08:44:30Z",
+            "owner": "gagolews",
+            "repo": "stringi",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reshape2",
+          "description": "Flexible rearrange, reshape and aggregate data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-11-12T18:00:53Z",
+            "owner": "hadley",
+            "repo": "reshape",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rlist",
+          "description": "A toolbox for non-tabular data manipulation with lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-03-11T12:55:35Z",
+            "owner": "renkun-ken",
+            "repo": "rlist",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snakecase",
+          "description": "Automatically parse and convert strings into cases like snake or camel among others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-01-22T19:55:37Z",
+            "owner": "Tazinho",
+            "repo": "snakecase",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bigmemory",
+          "description": "Shared memory and memory-mapped matrices. The big* packages provide additional tools including linear models (biglm) and Random Forests (bigrf).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-08T01:33:39Z",
+            "owner": "kaneplusplus",
+            "repo": "bigmemory",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "broom",
+          "description": "Convert statistical analysis objects into tidy data frames.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-02-04T02:12:09Z",
+            "owner": "dgrtwo",
+            "repo": "broom",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Data Manipulation"
+    },
+    {
+      "description": "Packages for reading and writing data of different formats.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "feather",
+          "description": "Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-08T14:57:36Z",
+            "owner": "wesm",
+            "repo": "feather",
+            "stars": 2756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readr",
+          "description": "A fast and friendly way to read tabular data into R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-10T16:35:05Z",
+            "owner": "tidyverse",
+            "repo": "readr",
+            "stars": 1036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vroom",
+          "description": "Fast reading of delimited files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-09T18:39:00Z",
+            "owner": "tidyverse",
+            "repo": "vroom",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rio",
+          "description": "A Swiss-Army Knife for Data I/O.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-20T13:14:37Z",
+            "owner": "gesistsa",
+            "repo": "rio",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haven",
+          "description": "Improved methods to import SPSS, Stata and SAS files in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-09T10:51:55Z",
+            "owner": "tidyverse",
+            "repo": "haven",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qs",
+          "description": "Quick serialization of R objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-07T01:21:43Z",
+            "owner": "qsbase",
+            "repo": "qs",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonlite",
+          "description": "A robust and quick way to parse JSON files in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T13:27:51Z",
+            "owner": "jeroen",
+            "repo": "jsonlite",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaml",
+          "description": "R package for converting objects to and from YAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-28T11:12:22Z",
+            "owner": "r-lib",
+            "repo": "yaml",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RcppTOML",
+          "description": "Rcpp Bindings to C++ parser for TOML files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-28T02:34:48Z",
+            "owner": "eddelbuettel",
+            "repo": "rcpptoml",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readODS",
+          "description": "Read OpenDocument Spreadsheets into R as data.frames.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-27T08:40:54Z",
+            "owner": "chainsawriot",
+            "repo": "readODS",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Data Formats"
+    },
+    {
+      "description": "Packages for showing data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ggplot2",
+          "description": "An implementation of the Grammar of Graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-22T12:15:25Z",
+            "owner": "tidyverse",
+            "repo": "ggplot2",
+            "stars": 6979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patchwork",
+          "description": "Combine separate ggplots into the same graphic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-08-25T10:11:42Z",
+            "owner": "thomasp85",
+            "repo": "patchwork",
+            "stars": 2614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggstatsplot",
+          "description": "ggplot2 Based Plots with Statistical Details",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-09T07:10:11Z",
+            "owner": "IndrajeetPatil",
+            "repo": "ggstatsplot",
+            "stars": 2191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gganimate",
+          "description": "Create easy animations with ggplot2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-04T12:14:57Z",
+            "owner": "thomasp85",
+            "repo": "gganimate",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hrbrthemes",
+          "description": "🔏 Opinionated, typographic-centric ggplot2 themes and theme components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-19T13:43:33Z",
+            "owner": "hrbrmstr",
+            "repo": "hrbrthemes",
+            "stars": 1353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggrepel",
+          "description": "Repel overlapping text labels away from each other.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-14T13:38:53Z",
+            "owner": "slowkow",
+            "repo": "ggrepel",
+            "stars": 1259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggtree",
+          "description": "Visualization and annotation of phylogenetic tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-29T03:30:17Z",
+            "owner": "YuLab-SMU",
+            "repo": "ggtree",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waffle",
+          "description": "🍁 Make waffle (square pie) charts in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-01-08T18:23:44Z",
+            "owner": "hrbrmstr",
+            "repo": "waffle",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggalt",
+          "description": "Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-13T13:35:46Z",
+            "owner": "hrbrmstr",
+            "repo": "ggalt",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggfortify",
+          "description": "A unified interface to ggplot2 popular statistical packages using one line of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-05T15:42:36Z",
+            "owner": "sinhrks",
+            "repo": "ggfortify",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpgd",
+          "description": "Asynchronous http server graphics device for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-14T23:56:02Z",
+            "owner": "nx10",
+            "repo": "httpgd",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "showtext",
+          "description": "Enable R graphics device to show text using system fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-21T05:32:09Z",
+            "owner": "yixuan",
+            "repo": "showtext",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggtech",
+          "description": "ggplot2 tech themes and scales",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-08-07T03:43:31Z",
+            "owner": "ricardo-bion",
+            "repo": "ggtech",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "corrplot",
+          "description": "A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-10-14T05:33:58Z",
+            "owner": "taiyun",
+            "repo": "corrplot",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extrafont",
+          "description": "Tools for using fonts in R graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-23T14:47:06Z",
+            "owner": "wch",
+            "repo": "extrafont",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animation",
+          "description": "A simple way to produce animated graphics in R, using ImageMagick.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-08-27T14:02:54Z",
+            "owner": "yihui",
+            "repo": "animation",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dendextend",
+          "description": "visualizing, adjusting and comparing trees of hierarchical clustering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-06T13:41:16Z",
+            "owner": "talgalili",
+            "repo": "dendextend",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lattice",
+          "description": "A powerful and elegant high-level data visualization system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-09T17:28:25Z",
+            "owner": "deepayan",
+            "repo": "lattice",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "idendro",
+          "description": "interactive exploration of dendrograms (trees of hierarchical clustering).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-07-06T11:23:47Z",
+            "owner": "tsieger",
+            "repo": "idendro",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Graphic Displays"
+    },
+    {
+      "description": "Packages for interactive visualizations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plotly",
+          "description": "Interactive ggplot2 and Shiny plotting with plot.ly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-25T00:33:15Z",
+            "owner": "plotly",
+            "repo": "plotly.R",
+            "stars": 2675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiagrammeR",
+          "description": "Create JS graph diagrams and flowcharts in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-27T20:44:12Z",
+            "owner": "rich-iannone",
+            "repo": "DiagrammeR",
+            "stars": 1739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rCharts",
+          "description": "Interactive JS Charts from R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-19T05:31:52Z",
+            "owner": "ramnathv",
+            "repo": "rCharts",
+            "stars": 1181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "highcharter",
+          "description": "R wrapper for highcharts based on htmlwidgets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-26T21:43:35Z",
+            "owner": "jbkunst",
+            "repo": "highcharter",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggvis",
+          "description": "Interactive grammar of graphics for R.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2026-02-10T14:26:50Z",
+            "owner": "rstudio",
+            "repo": "ggvis",
+            "stars": 707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "formattable",
+          "description": "Formattable Data Structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-08T15:12:38Z",
+            "owner": "renkun-ken",
+            "repo": "formattable",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timevis",
+          "description": "Create fully interactive timeline visualizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-08-18T18:43:47Z",
+            "owner": "daattali",
+            "repo": "timevis",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "echarts4r",
+          "description": "R wrapper to Echarts version 4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-23T14:27:23Z",
+            "owner": "JohnCoene",
+            "repo": "echarts4r",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visNetwork",
+          "description": "Using vis.js library for network visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T13:52:15Z",
+            "owner": "datastorm-open",
+            "repo": "visNetwork",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wordcloud2",
+          "description": "R interface to wordcloud2.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-03T02:25:40Z",
+            "owner": "Lchiffon",
+            "repo": "wordcloud2",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heatmaply",
+          "description": "Interactive heatmaps with D3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-11-29T12:08:17Z",
+            "owner": "talgalili",
+            "repo": "heatmaply",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dygraphs",
+          "description": "Charting time-series data in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-15T04:26:22Z",
+            "owner": "rstudio",
+            "repo": "dygraphs",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "threejs",
+          "description": "Interactive 3D scatter plots and globes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-03T10:48:06Z",
+            "owner": "bwlewis",
+            "repo": "rthreejs",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3heatmap",
+          "description": "Interactive heatmaps with D3 (no longer maintained).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-11-29T12:07:50Z",
+            "owner": "talgalili",
+            "repo": "d3heatmap",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scatterD3",
+          "description": "Interactive scatterplots with D3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T17:07:34Z",
+            "owner": "juba",
+            "repo": "scatterD3",
+            "stars": 162
+          }
+        }
+      ],
+      "title": "HTML Widgets"
+    },
+    {
+      "description": "Packages for literate programming and reproducible workflows.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "knitr",
+          "description": "Easy dynamic report generation in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-01T13:28:34Z",
+            "owner": "yihui",
+            "repo": "knitr",
+            "stars": 2463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinytex",
+          "description": "A lightweight and easy-to-maintain LaTeX distribution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-07T14:19:15Z",
+            "owner": "rstudio",
+            "repo": "tinytex",
+            "stars": 1146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slidify",
+          "description": "Generate reproducible html5 slides from R markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-08-02T03:54:45Z",
+            "owner": "ramnathv",
+            "repo": "slidify",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redoc",
+          "description": "Reversible Reproducible Documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-10-04T14:25:51Z",
+            "owner": "tribalxg",
+            "repo": "redoc",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "checkpoint",
+          "description": "Install packages from snapshots on the checkpoint server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-01-26T17:11:23Z",
+            "owner": "RevolutionAnalytics",
+            "repo": "checkpoint",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "texreg",
+          "description": "Formatting statistical models in LaTex and HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-12-21T21:39:40Z",
+            "owner": "leifeld-lab",
+            "repo": "texreg",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezknitr",
+          "description": "Avoid the typical working directory pain when using 'knitr'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-08-20T04:15:48Z",
+            "owner": "ropensci",
+            "repo": "ezknitr",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Reproducible Research"
+    },
+    {
+      "description": "Packages to surf the web.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shiny",
+          "description": "Easy interactive web applications with R. See also awesome-rshiny",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-13T19:40:23Z",
+            "owner": "rstudio",
+            "repo": "shiny",
+            "stars": 5677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rvest",
+          "description": "Simple web scraping for R, using CSSSelect or XPath syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-09T10:02:49Z",
+            "owner": "tidyverse",
+            "repo": "rvest",
+            "stars": 1522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plumber",
+          "description": "A library to expose existing R code as web API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-09T15:10:26Z",
+            "owner": "rstudio",
+            "repo": "plumber",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httr",
+          "description": "User-friendly RCurl wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-13T21:44:33Z",
+            "owner": "r-lib",
+            "repo": "httr",
+            "stars": 980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shinyjs",
+          "description": "Easily improve the user interaction and user experience in your Shiny apps in seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-11T19:09:42Z",
+            "owner": "daattali",
+            "repo": "shinyjs",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rfacebook",
+          "description": "Access to Facebook API via R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-05-22T15:41:06Z",
+            "owner": "pablobarbera",
+            "repo": "Rfacebook",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpuv",
+          "description": "HTTP and WebSocket server library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-17T14:59:33Z",
+            "owner": "rstudio",
+            "repo": "httpuv",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curl",
+          "description": "A Modern and Flexible Web Client for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T09:02:11Z",
+            "owner": "jeroen",
+            "repo": "curl",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Technologies List",
+          "description": "Information about how to use R and the world wide web together.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-21T09:48:30Z",
+            "owner": "cran-task-views",
+            "repo": "WebTechnologies",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSiteCatalyst",
+          "description": "R client library for the Adobe Analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2020-05-06T12:40:12Z",
+            "owner": "randyzwitch",
+            "repo": "RSiteCatalyst",
+            "stars": 125
+          }
+        }
+      ],
+      "title": "Web Technologies and Services"
+    },
+    {
+      "description": "Packages for parallel computing.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SparkR",
+          "description": "R frontend for Spark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-06-10T21:42:55Z",
+            "owner": "amplab-extras",
+            "repo": "SparkR-pkg",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DistributedR",
+          "description": "A scalable high-performance platform from HP Vertica Analytics Team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2015-12-17T16:38:40Z",
+            "owner": "vertica",
+            "repo": "DistributedR",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ddR",
+          "description": "Provides distributed data structures and simplifies distributed computing in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-10-20T15:51:45Z",
+            "owner": "vertica",
+            "repo": "ddR",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "Parallel Computing"
+    },
+    {
+      "description": "Packages for making R faster.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cpp11",
+          "description": "cpp11 is a header-only R package that helps R package developers handle R objects with C++ code. It's similar to Rcpp but with different design trade-offs and features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-07T15:29:56Z",
+            "owner": "r-lib",
+            "repo": "cpp11",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rcpp11",
+          "description": "Rcpp11 is a complete redesign of Rcpp, targetting C++11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-03-10T19:28:17Z",
+            "owner": "Rcpp11",
+            "repo": "Rcpp11",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "High Performance"
+    },
+    {
+      "description": "Packages for other languages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JuliaCall",
+          "description": "Seamless Integration Between R and Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-01T15:04:50Z",
+            "owner": "JuliaInterop",
+            "repo": "JuliaCall",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V8",
+          "description": "Embedded JavaScript Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-12T18:07:25Z",
+            "owner": "jeroen",
+            "repo": "V8",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RJulia",
+          "description": "R package Call Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-10-20T17:08:34Z",
+            "owner": "armgong",
+            "repo": "rjulia",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "runr",
+          "description": "Run Julia and Bash from R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-09-14T18:46:42Z",
+            "owner": "yihui",
+            "repo": "runr",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RcppOctave",
+          "description": "Seamless Interface to Octave and Matlab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "M4",
+            "last_commit": "2021-02-06T08:54:29Z",
+            "owner": "renozao",
+            "repo": "RcppOctave",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jvmr",
+          "description": "Integration of R, Java, and Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2014-08-30T22:44:27Z",
+            "owner": "cran",
+            "repo": "jvmr",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Language API"
+    },
+    {
+      "description": "Packages for managing data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "odbc",
+          "description": "Connect to ODBC databases (using the DBI interface)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T17:29:08Z",
+            "owner": "r-dbi",
+            "repo": "odbc",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPostgres",
+          "description": "an DBI-compliant interface to the postgres database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-09T02:33:50Z",
+            "owner": "r-dbi",
+            "repo": "RPostgres",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DBI",
+          "description": "Defines a common interface between the R and database management systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-13T03:09:18Z",
+            "owner": "r-dbi",
+            "repo": "DBI",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mongolite",
+          "description": "Streaming Mongo Client for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T19:21:25Z",
+            "owner": "jeroen",
+            "repo": "mongolite",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elastic",
+          "description": "Wrapper for the Elasticsearch HTTP API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2025-12-02T09:36:32Z",
+            "owner": "ropensci-archive",
+            "repo": "elastic",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RNeo4j",
+          "description": "Neo4j graph database driver.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2019-02-19T15:23:19Z",
+            "owner": "nicolewhite",
+            "repo": "RNeo4j",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RMariaDB",
+          "description": "An R interface to MariaDB (a replacement for the old RMySQL package)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-09T02:35:58Z",
+            "owner": "r-dbi",
+            "repo": "RMariaDB",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RHive",
+          "description": "R extension facilitating distributed computing via Apache Hive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-07-19T01:04:45Z",
+            "owner": "nexr",
+            "repo": "RHive",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux",
+          "description": "Redis client for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-01T14:13:01Z",
+            "owner": "richfitz",
+            "repo": "redux",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rpostgis",
+          "description": "R interface to PostGIS database and get spatial objects in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-12-08T16:00:57Z",
+            "owner": "Cidree",
+            "repo": "rpostgis",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rmongodb",
+          "description": "R driver for MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-03-21T10:36:28Z",
+            "owner": "dselivanov",
+            "repo": "rmongodb",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Database Management"
+    },
+    {
+      "description": "Packages for making R cleverer.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MXNet",
+          "description": "MXNet brings flexible and efficient GPU computing and state-of-art deep learning to R.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-10-25T21:28:33Z",
+            "owner": "apache",
+            "repo": "mxnet",
+            "stars": 20811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prophet",
+          "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T00:29:17Z",
+            "owner": "facebook",
+            "repo": "prophet",
+            "stars": 20355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning For Hackers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-05-26T16:52:29Z",
+            "owner": "johnmyleswhite",
+            "repo": "ML_for_Hackers",
+            "stars": 3734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyDetection",
+          "description": "AnomalyDetection R package from Twitter.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2019-08-30T19:49:16Z",
+            "owner": "twitter",
+            "repo": "AnomalyDetection",
+            "stars": 3606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CausalImpact",
+          "description": "Causal inference using Bayesian structural time-series models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-03-31T04:46:51Z",
+            "owner": "google",
+            "repo": "CausalImpact",
+            "stars": 1851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mlr",
+          "description": "Extensible framework for classification, regression, survival analysis and clustering [DEPRECIATED]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-08-22T19:47:49Z",
+            "owner": "mlr-org",
+            "repo": "mlr",
+            "stars": 1687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mlr3",
+          "description": "Next generation extensible framework for classification, regression, survival analysis and clustering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-07T11:21:15Z",
+            "owner": "mlr-org",
+            "repo": "mlr3",
+            "stars": 1078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranger",
+          "description": "A Fast Implementation of Random Forests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-01T20:02:40Z",
+            "owner": "imbs-hl",
+            "repo": "ranger",
+            "stars": 814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BreakoutDetection",
+          "description": "Breakout Detection via Robust E-Statistics from Twitter.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2017-08-15T03:23:50Z",
+            "owner": "twitter",
+            "repo": "BreakoutDetection",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lme4",
+          "description": "Mixed-effects models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T21:38:55Z",
+            "owner": "lme4",
+            "repo": "lme4",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fable",
+          "description": "a collection of commonly used univariate and multivariate time series forecasting models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-11T23:05:38Z",
+            "owner": "tidyverts",
+            "repo": "fable",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xgboost",
+          "description": "eXtreme Gradient Boosting Tree model, well known for its speed and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-07-04T19:24:02Z",
+            "owner": "tqchen",
+            "repo": "xgboost",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "survminer",
+          "description": "Survival Analysis & Visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-30T05:18:55Z",
+            "owner": "kassambara",
+            "repo": "survminer",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anomalize",
+          "description": "Tidy Anomaly Detection using Twitter's AnomalyDetection method.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-12-28T15:19:53Z",
+            "owner": "business-science",
+            "repo": "anomalize",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperLearner",
+          "description": "and subsemble - Multi-algorithm ensemble learning packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-12-15T15:26:06Z",
+            "owner": "ecpolley",
+            "repo": "SuperLearner",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clever Algorithms For Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-06-29T07:34:33Z",
+            "owner": "Jason2Brownlee",
+            "repo": "CleverAlgorithmsMachineLearning",
+            "stars": 240
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "Packages for Natural Language Processing.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "quanteda",
+          "description": "R functions for Quantitative Analysis of Textual Data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-13T23:42:25Z",
+            "owner": "quanteda",
+            "repo": "quanteda",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "text2vec",
+          "description": "Fast Text Mining Framework for Vectorization and Word Embeddings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-12-01T09:36:22Z",
+            "owner": "dselivanov",
+            "repo": "text2vec",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LDAvis",
+          "description": "Interactive visualization of topic models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-06T16:21:59Z",
+            "owner": "cpsievert",
+            "repo": "LDAvis",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topic Models Resources",
+          "description": "Topic Models learning and R related resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-01-30T22:10:20Z",
+            "owner": "trinker",
+            "repo": "topicmodels_learning",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utf8",
+          "description": "Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T00:51:36Z",
+            "owner": "krlmlr",
+            "repo": "utf8",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonkeyLearn",
+          "description": "🐒 R package for text analysis with Monkeylearn 🐒.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2022-05-10T13:54:02Z",
+            "owner": "ropensci-archive",
+            "repo": "monkeylearn",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP for",
+          "description": "NLP related resources in R. @Chinese",
+          "children": []
+        }
+      ],
+      "title": "Natural Language Processing"
+    },
+    {
+      "description": "Packages to construct, analyze and visualize network data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Network Analysis List",
+          "description": "Network Analysis related resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-17T18:25:35Z",
+            "owner": "briatte",
+            "repo": "awesome-network-analysis",
+            "stars": 4093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidygraph",
+          "description": "A tidy API for graph manipulation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-02-05T21:43:32Z",
+            "owner": "thomasp85",
+            "repo": "tidygraph",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visNetwork",
+          "description": "Using vis.js library for network visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T13:52:15Z",
+            "owner": "datastorm-open",
+            "repo": "visNetwork",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netdiffuseR",
+          "description": "Tools for Analysis of Network Diffusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-07T23:29:35Z",
+            "owner": "USCCANA",
+            "repo": "netdiffuseR",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Network Analysis"
+    },
+    {
+      "description": "Packages to explore the earth.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ggmap",
+          "description": "Plotting maps in R with ggplot2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-08-31T21:12:20Z",
+            "owner": "dkahle",
+            "repo": "ggmap",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tigris",
+          "description": "Download and use Census TIGER/Line shapefiles in R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-07-18T18:43:22Z",
+            "owner": "walkerke",
+            "repo": "tigris",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REmap",
+          "description": "R interface to the JavaScript library ECharts for interactive map data visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-06T09:05:01Z",
+            "owner": "Lchiffon",
+            "repo": "REmap",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gstat",
+          "description": "Spatial and spatio-temporal geostatistical modelling, prediction and simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-29T16:43:14Z",
+            "owner": "r-spatial",
+            "repo": "gstat",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spatstat",
+          "description": "Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-29T02:24:41Z",
+            "owner": "spatstat",
+            "repo": "spatstat",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spacetime",
+          "description": "R classes and methods for spatio-temporal data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-01-23T11:53:50Z",
+            "owner": "edzer",
+            "repo": "spacetime",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmap",
+          "description": "R package for thematic maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-10T22:20:41Z",
+            "owner": "mtennekes",
+            "repo": "tmap",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Spatial"
+    },
+    {
+      "description": "Packages for packages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "devtools",
+          "description": "Tools to make an R developer's life easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-30T16:20:47Z",
+            "owner": "r-lib",
+            "repo": "devtools",
+            "stars": 2516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lintr",
+          "description": "Static code analysis for R to enforce code style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-13T06:16:28Z",
+            "owner": "r-lib",
+            "repo": "lintr",
+            "stars": 1292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "renv",
+          "description": "Make your R projects more isolated, portable, and reproducible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-11T19:49:46Z",
+            "owner": "rstudio",
+            "repo": "renv",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "box",
+          "description": "A modern module system for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-29T23:15:38Z",
+            "owner": "klmr",
+            "repo": "box",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "testthat",
+          "description": "An R package to make testing fun.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-06T02:36:57Z",
+            "owner": "r-lib",
+            "repo": "testthat",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RStudio Addins",
+          "description": "List of RStudio addins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-08-18T18:43:22Z",
+            "owner": "daattali",
+            "repo": "addinslist",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staticdocs",
+          "description": "Generate static html documentation for an R package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-12T09:24:43Z",
+            "owner": "r-lib",
+            "repo": "pkgdown",
+            "stars": 773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roxygen",
+          "description": "Describe your functions in comments next to their definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-04T20:24:58Z",
+            "owner": "r-lib",
+            "repo": "roxygen2",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R6",
+          "description": "simpler, faster, lighter-weight alternative to R's built-in classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-10-20T21:08:56Z",
+            "owner": "r-lib",
+            "repo": "R6",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "covr",
+          "description": "Test coverage for your R package and (optionally) upload the results to coveralls or codecov.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-01-05T18:56:39Z",
+            "owner": "r-lib",
+            "repo": "covr",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "installr",
+          "description": "Functions for installing softwares from within R (for Windows).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-11-29T12:08:14Z",
+            "owner": "talgalili",
+            "repo": "installr",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "import",
+          "description": "An import mechanism for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-10-20T12:33:10Z",
+            "owner": "rticulate",
+            "repo": "import",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pryr",
+          "description": "Make it easier to understand what's going on in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-05-17T19:01:29Z",
+            "owner": "hadley",
+            "repo": "pryr",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sinew",
+          "description": "Generate roxygen2 skeletons populated with information scraped from the function script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-02-27T15:04:47Z",
+            "owner": "yonicd",
+            "repo": "sinew",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drat",
+          "description": "Creation and use of R repositories on GitHub or other repos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T02:15:28Z",
+            "owner": "eddelbuettel",
+            "repo": "drat",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lineprof",
+          "description": "Visualise line profiling results in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-13T12:57:15Z",
+            "owner": "hadley",
+            "repo": "lineprof",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package Development List",
+          "description": "R packages to improve package development.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2022-05-10T13:48:13Z",
+            "owner": "ropensci-archive",
+            "repo": "PackageDevelopment",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "R Development"
+    },
+    {
+      "description": "Packages for Logging",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "futile.logger",
+          "description": "A logging package in R similar to log4j",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-12-22T16:00:00Z",
+            "owner": "zatonovo",
+            "repo": "futile.logger",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "log4r",
+          "description": "A log4j derivative for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-04T22:53:30Z",
+            "owner": "r-lib",
+            "repo": "log4r",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "Handy Data Packages",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "engsoccerdata",
+          "description": "English and European soccer results 1871-2016.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-08T04:52:56Z",
+            "owner": "jalapic",
+            "repo": "engsoccerdata",
+            "stars": 781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gapminder",
+          "description": "Excerpt from the Gapminder dataset (data about countries through the past 50 years).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-06-12T15:04:02Z",
+            "owner": "jennybc",
+            "repo": "gapminder",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RCOBOLDI",
+          "description": "Import COBOL CopyBook data files directly into R as properly structured data frames. Package builds are available via Drat and DockerHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "COBOL",
+            "last_commit": "2024-08-07T21:17:16Z",
+            "owner": "thospfuller",
+            "repo": "rcoboldi",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICON",
+          "description": "complex systems & networks datasets from the Index of COmplex Networks (ICON) database webpage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-05-14T15:38:34Z",
+            "owner": "rrrlw",
+            "repo": "ICON",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Data Packages"
+    },
+    {
+      "description": "Alternative R engines.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rho",
+          "description": "Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-06-30T22:38:54Z",
+            "owner": "rho-devel",
+            "repo": "rho",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "riposte",
+          "description": "a fast interpreter and JIT for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-09-24T18:04:10Z",
+            "owner": "jtalbot",
+            "repo": "riposte",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Other Interpreters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Websites"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Readings in Applied Data Science",
+          "description": "These readings reflect Hadley's personal thoughts about applied data science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-06-21T15:57:29Z",
+            "owner": "hadley",
+            "repo": "stats337",
+            "stars": 1612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R Books List",
+          "description": "List of R Books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-11-02T09:19:37Z",
+            "owner": "romantseg",
+            "repo": "rbooks",
+            "stars": 279
+          }
+        }
+      ],
+      "title": "Book/monograph Lists and Reviews"
+    },
+    {
+      "description": "Great resources for learning domain knowledge.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Posts",
+          "description": "Great R blog posts or Rticles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-18T16:46:19Z",
+            "owner": "qinwf",
+            "repo": "awesome-R",
+            "stars": 6496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Analysis",
+          "description": "Network Analysis related resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-17T18:25:35Z",
+            "owner": "briatte",
+            "repo": "awesome-network-analysis",
+            "stars": 4093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RStudio Addins",
+          "description": "List of RStudio addins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-08-18T18:43:22Z",
+            "owner": "daattali",
+            "repo": "addinslist",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RStartHere",
+          "description": "A guide to some of the most useful R packages, organized by workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-09-16T16:42:30Z",
+            "owner": "rstudio",
+            "repo": "RStartHere",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Books",
+          "description": "List of R Books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-11-02T09:19:37Z",
+            "owner": "romantseg",
+            "repo": "rbooks",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topic Models",
+          "description": "Topic Models learning and R related resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-01-30T22:10:20Z",
+            "owner": "trinker",
+            "repo": "topicmodels_learning",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Data",
+          "description": "Using R to obtain, parse, manipulate, create, and share open data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2022-05-10T13:48:07Z",
+            "owner": "ropensci-archive",
+            "repo": "opendata",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Technologies",
+          "description": "Information about how to use R and the world wide web together.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-21T09:48:30Z",
+            "owner": "cran-task-views",
+            "repo": "WebTechnologies",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package Development",
+          "description": "R packages to improve package development.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2022-05-10T13:48:13Z",
+            "owner": "ropensci-archive",
+            "repo": "PackageDevelopment",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Language Processing",
+          "description": "NLP related resources in R. @Chinese",
+          "children": []
+        }
+      ],
+      "title": "Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Readings in Applied Data Science",
+          "description": "These readings reflect Hadley's personal thoughts about applied data science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-06-21T15:57:29Z",
+            "owner": "hadley",
+            "repo": "stats337",
+            "stars": 1612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fable",
+          "description": "univariate and multivariate time series forecasting models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-11T23:05:38Z",
+            "owner": "tidyverts",
+            "repo": "fable",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rstats-ed",
+          "description": "List of courses teaching R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-08T11:00:02Z",
+            "owner": "rstudio-education",
+            "repo": "rstats-ed",
+            "stars": 454
+          }
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "prophet",
+          "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T00:29:17Z",
+            "owner": "facebook",
+            "repo": "prophet",
+            "stars": 20355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patchwork",
+          "description": "Combine separate ggplots into the same graphic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-08-25T10:11:42Z",
+            "owner": "thomasp85",
+            "repo": "patchwork",
+            "stars": 2614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidyverse",
+          "description": "Easily install and load packages from the tidyverse",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-06-18T20:15:42Z",
+            "owner": "tidyverse",
+            "repo": "tidyverse",
+            "stars": 1799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blogdown",
+          "description": "Create Blogs and Websites with R Markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-19T19:22:36Z",
+            "owner": "rstudio",
+            "repo": "blogdown",
+            "stars": 1793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reticulate",
+          "description": "R Interface to Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-13T23:08:36Z",
+            "owner": "rstudio",
+            "repo": "reticulate",
+            "stars": 1758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xaringan",
+          "description": "Create HTML5 slides with R Markdown and the JavaScript library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-08-18T15:14:56Z",
+            "owner": "yihui",
+            "repo": "xaringan",
+            "stars": 1519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purrr",
+          "description": "A functional programming toolkit for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-22T18:58:16Z",
+            "owner": "tidyverse",
+            "repo": "purrr",
+            "stars": 1401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hrbrthemes",
+          "description": "🔏 Opinionated, typographic-centric ggplot2 themes and theme components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-19T13:43:33Z",
+            "owner": "hrbrmstr",
+            "repo": "hrbrthemes",
+            "stars": 1353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorflow",
+          "description": "TensorFlow for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-08T15:49:04Z",
+            "owner": "rstudio",
+            "repo": "tensorflow",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lintr",
+          "description": "Static Code Analysis for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-13T06:16:28Z",
+            "owner": "r-lib",
+            "repo": "lintr",
+            "stars": 1292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reprex",
+          "description": "Render bits of R code for sharing, e.g., on GitHub or StackOverflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-10T16:35:47Z",
+            "owner": "tidyverse",
+            "repo": "reprex",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glue",
+          "description": "Glue strings to data in R. Small, fast, dependency free interpreted string literals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-21T22:38:06Z",
+            "owner": "tidyverse",
+            "repo": "glue",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "covr",
+          "description": "Test coverage reports for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-01-05T18:56:39Z",
+            "owner": "r-lib",
+            "repo": "covr",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utf8",
+          "description": "Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T00:51:36Z",
+            "owner": "krlmlr",
+            "repo": "utf8",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "2017"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:02:46.114Z",
+    "original_repository": "qinwf/awesome-R",
+    "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
+    "enhanced_repository": "enhansome/enhansome-R",
+    "enhanced_repository_description": null,
+    "title": "Awesome R with stars"
+  }
+}
