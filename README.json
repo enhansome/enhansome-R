@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133241343,
             "language": "R",
             "last_commit": "2026-08-18T03:33:12Z",
             "owner": "tylermorganwall",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48915564,
             "language": "R",
             "last_commit": "2025-09-15T19:27:31Z",
             "owner": "thomasp85",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161399255,
             "language": "C++",
             "last_commit": "2026-06-09T18:39:00Z",
             "owner": "tidyverse",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86867223,
             "language": "Python",
             "last_commit": "2026-05-01T03:17:36Z",
             "owner": "randy3k",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17196838,
             "language": "Jupyter Notebook",
             "last_commit": "2024-04-30T07:24:08Z",
             "owner": "IRkernel",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28521392,
             "language": "Vim Script",
             "last_commit": "2026-05-02T12:13:09Z",
             "owner": "jalvesaq",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108036425,
             "language": "Python",
             "last_commit": "2025-06-07T16:29:46Z",
             "owner": "REditorSupport",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222353,
             "language": "Ruby",
             "last_commit": "2024-02-21T21:16:20Z",
             "owner": "textmate",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27309729,
             "language": "R",
             "last_commit": "2026-07-22T18:58:16Z",
             "owner": "tidyverse",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15564525,
             "language": "R",
             "last_commit": "2026-04-05T05:42:58Z",
             "owner": "tidyverse",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5091157,
             "language": "R",
             "last_commit": "2025-01-02T18:37:52Z",
             "owner": "zatonovo",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18517473,
             "language": "R",
             "last_commit": "2016-08-26T00:50:14Z",
             "owner": "renkun-ken",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6427813,
             "language": "R",
             "last_commit": "2026-06-02T15:25:25Z",
             "owner": "tidyverse",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20597509,
             "language": "R",
             "last_commit": "2026-08-15T20:46:51Z",
             "owner": "Rdatatable",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67510715,
             "language": "R",
             "last_commit": "2025-06-18T20:15:42Z",
             "owner": "tidyverse",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20688261,
             "language": "R",
             "last_commit": "2026-06-02T17:43:26Z",
             "owner": "tidyverse",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148017,
             "language": "R",
             "last_commit": "2026-06-15T18:28:12Z",
             "owner": "tidyverse",
@@ -266,11 +283,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53443677,
             "language": "R",
             "last_commit": "2026-02-19T21:37:07Z",
             "owner": "dgrtwo",
             "repo": "fuzzyjoin",
-            "stars": 701
+            "stars": 702
           }
         },
         {
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365649,
             "language": "R",
             "last_commit": "2025-11-04T22:52:35Z",
             "owner": "tidyverse",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38202431,
             "language": "R",
             "last_commit": "2026-03-10T13:57:58Z",
             "owner": "boxuancui",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7457004,
             "language": "C++",
             "last_commit": "2026-08-18T12:04:45Z",
             "owner": "gagolews",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44274,
             "language": "R",
             "last_commit": "2025-11-12T18:00:53Z",
             "owner": "hadley",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20375257,
             "language": "R",
             "last_commit": "2023-03-11T12:55:35Z",
             "owner": "renkun-ken",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84742889,
             "language": "R",
             "last_commit": "2024-01-22T19:55:37Z",
             "owner": "Tazinho",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27275919,
             "language": "C++",
             "last_commit": "2026-06-08T01:33:39Z",
             "owner": "kaneplusplus",
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210513350,
             "language": "R",
             "last_commit": "2023-02-04T02:12:09Z",
             "owner": "dgrtwo",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50544166,
             "language": "JavaScript",
             "last_commit": "2025-12-08T14:57:36Z",
             "owner": "wesm",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11663980,
             "language": "R",
             "last_commit": "2026-04-10T16:35:05Z",
             "owner": "tidyverse",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161399255,
             "language": "C++",
             "last_commit": "2026-06-09T18:39:00Z",
             "owner": "tidyverse",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31203588,
             "language": "R",
             "last_commit": "2026-07-20T13:14:37Z",
             "owner": "gesistsa",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30308523,
             "language": "C",
             "last_commit": "2026-02-09T10:51:55Z",
             "owner": "tidyverse",
@@ -468,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163551739,
             "language": "C",
             "last_commit": "2025-11-07T01:21:43Z",
             "owner": "qsbase",
@@ -482,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13305534,
             "language": "C",
             "last_commit": "2026-07-22T13:27:51Z",
             "owner": "jeroen",
@@ -496,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13136,
             "language": "C",
             "last_commit": "2026-02-28T11:12:22Z",
             "owner": "r-lib",
@@ -510,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33040061,
             "language": "C++",
             "last_commit": "2026-01-28T02:34:48Z",
             "owner": "eddelbuettel",
@@ -524,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809399805,
             "language": null,
             "last_commit": "2024-05-27T08:40:54Z",
             "owner": "chainsawriot",
@@ -544,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19438,
             "language": "R",
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
@@ -558,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112388106,
             "language": "R",
             "last_commit": "2025-08-25T10:11:42Z",
             "owner": "thomasp85",
@@ -572,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116717490,
             "language": "R",
             "last_commit": "2026-08-09T07:10:11Z",
             "owner": "IndrajeetPatil",
@@ -586,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50872540,
             "language": "R",
             "last_commit": "2025-09-04T12:14:57Z",
             "owner": "thomasp85",
@@ -600,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81667483,
             "language": "R",
             "last_commit": "2026-04-19T13:43:33Z",
             "owner": "hrbrmstr",
@@ -614,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48962505,
             "language": "R",
             "last_commit": "2026-04-14T13:38:53Z",
             "owner": "slowkow",
@@ -628,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27470866,
             "language": "R",
             "last_commit": "2026-04-29T03:30:17Z",
             "owner": "YuLab-SMU",
@@ -642,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32480618,
             "language": "R",
             "last_commit": "2024-01-08T18:23:44Z",
             "owner": "hrbrmstr",
@@ -656,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42136902,
             "language": "R",
             "last_commit": "2026-05-13T13:35:46Z",
             "owner": "hrbrmstr",
@@ -670,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24807286,
             "language": "R",
             "last_commit": "2026-08-05T15:42:36Z",
             "owner": "sinhrks",
@@ -684,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265018270,
             "language": "C++",
             "last_commit": "2026-05-14T23:56:02Z",
             "owner": "nx10",
@@ -698,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15057921,
             "language": "C",
             "last_commit": "2026-03-21T05:32:09Z",
             "owner": "yixuan",
@@ -712,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33326478,
             "language": "R",
             "last_commit": "2019-08-07T03:43:31Z",
             "owner": "ricardo-bion",
@@ -726,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2910722,
             "language": "R",
             "last_commit": "2024-10-14T05:33:58Z",
             "owner": "taiyun",
@@ -740,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4360071,
             "language": "R",
             "last_commit": "2025-09-23T14:47:06Z",
             "owner": "wch",
@@ -754,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1086080,
             "language": "R",
             "last_commit": "2025-08-27T14:02:54Z",
             "owner": "yihui",
@@ -768,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9248007,
             "language": "R",
             "last_commit": "2026-02-06T13:41:16Z",
             "owner": "talgalili",
@@ -782,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76022732,
             "language": "R",
             "last_commit": "2026-08-09T17:28:25Z",
             "owner": "deepayan",
@@ -796,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4712572,
             "language": "R",
             "last_commit": "2022-07-06T11:23:47Z",
             "owner": "tsieger",
@@ -816,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14579179,
             "language": "R",
             "last_commit": "2026-07-25T00:33:15Z",
             "owner": "plotly",
@@ -830,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28556914,
             "language": "R",
             "last_commit": "2026-04-27T20:44:12Z",
             "owner": "rich-iannone",
@@ -844,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9349217,
             "language": "JavaScript",
             "last_commit": "2016-10-19T05:31:52Z",
             "owner": "ramnathv",
@@ -858,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47833372,
             "language": "R",
             "last_commit": "2026-04-26T21:43:35Z",
             "owner": "jbkunst",
@@ -872,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9779536,
             "language": "R",
             "last_commit": "2026-02-10T14:26:50Z",
             "owner": "rstudio",
@@ -886,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33297795,
             "language": "HTML",
             "last_commit": "2026-08-08T15:12:38Z",
             "owner": "renkun-ken",
@@ -900,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63218141,
             "language": "R",
             "last_commit": "2024-08-18T18:43:47Z",
             "owner": "daattali",
@@ -914,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124915957,
             "language": "R",
             "last_commit": "2026-06-23T14:27:23Z",
             "owner": "JohnCoene",
@@ -928,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34519310,
             "language": "JavaScript",
             "last_commit": "2026-07-15T13:52:15Z",
             "owner": "datastorm-open",
@@ -942,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60066845,
             "language": "JavaScript",
             "last_commit": "2022-02-03T02:25:40Z",
             "owner": "Lchiffon",
@@ -956,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58800440,
             "language": "R",
             "last_commit": "2025-11-29T12:08:17Z",
             "owner": "talgalili",
@@ -970,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22991378,
             "language": "JavaScript",
             "last_commit": "2024-03-15T04:26:22Z",
             "owner": "rstudio",
@@ -984,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26826454,
             "language": "JavaScript",
             "last_commit": "2025-05-03T10:48:06Z",
             "owner": "bwlewis",
@@ -998,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11424446,
             "language": "R",
             "last_commit": "2025-11-29T12:07:50Z",
             "owner": "talgalili",
@@ -1012,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37119784,
             "language": "JavaScript",
             "last_commit": "2026-08-05T17:07:34Z",
             "owner": "juba",
@@ -1032,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2594513,
             "language": "R",
             "last_commit": "2026-07-01T13:28:34Z",
             "owner": "yihui",
@@ -1046,8 +1117,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111023949,
             "language": "R",
-            "last_commit": "2026-07-07T14:19:15Z",
+            "last_commit": "2026-08-19T11:02:58Z",
             "owner": "rstudio",
             "repo": "tinytex",
             "stars": 1149
@@ -1060,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4585668,
             "language": "R",
             "last_commit": "2016-08-02T03:54:45Z",
             "owner": "ramnathv",
@@ -1074,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159987560,
             "language": "R",
             "last_commit": "2025-10-04T14:25:51Z",
             "owner": "tribalxg",
@@ -1088,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20424156,
             "language": "R",
             "last_commit": "2022-01-26T17:11:23Z",
             "owner": "RevolutionAnalytics",
@@ -1102,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75412704,
             "language": "R",
             "last_commit": "2025-12-21T21:39:40Z",
             "owner": "leifeld-lab",
@@ -1116,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35521375,
             "language": "R",
             "last_commit": "2023-08-20T04:15:48Z",
             "owner": "ropensci",
@@ -1136,6 +1213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4729944,
             "language": "R",
             "last_commit": "2026-08-17T16:00:50Z",
             "owner": "rstudio",
@@ -1150,6 +1228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22178685,
             "language": "R",
             "last_commit": "2025-09-09T10:02:49Z",
             "owner": "tidyverse",
@@ -1164,6 +1243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36849200,
             "language": "R",
             "last_commit": "2026-02-09T15:10:26Z",
             "owner": "rstudio",
@@ -1178,6 +1258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2756403,
             "language": "R",
             "last_commit": "2026-02-13T21:44:33Z",
             "owner": "r-lib",
@@ -1192,6 +1273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29843701,
             "language": "R",
             "last_commit": "2026-08-11T19:09:42Z",
             "owner": "daattali",
@@ -1206,6 +1288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13564883,
             "language": "R",
             "last_commit": "2020-05-22T15:41:06Z",
             "owner": "pablobarbera",
@@ -1220,6 +1303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7961298,
             "language": "C",
             "last_commit": "2026-03-17T14:59:33Z",
             "owner": "rstudio",
@@ -1234,6 +1318,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26573769,
             "language": "C",
             "last_commit": "2026-08-01T09:02:11Z",
             "owner": "jeroen",
@@ -1248,6 +1333,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12711013,
             "language": "R",
             "last_commit": "2026-07-21T09:48:30Z",
             "owner": "cran-task-views",
@@ -1262,6 +1348,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8657056,
             "language": "R",
             "last_commit": "2020-05-06T12:40:12Z",
             "owner": "randyzwitch",
@@ -1282,6 +1369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15365789,
             "language": "R",
             "last_commit": "2016-06-10T21:42:55Z",
             "owner": "amplab-extras",
@@ -1296,6 +1384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22511128,
             "language": "R",
             "last_commit": "2015-12-17T16:38:40Z",
             "owner": "vertica",
@@ -1310,6 +1399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34484514,
             "language": "R",
             "last_commit": "2017-10-20T15:51:45Z",
             "owner": "vertica",
@@ -1330,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271357052,
             "language": "C++",
             "last_commit": "2026-05-07T15:29:56Z",
             "owner": "r-lib",
@@ -1344,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11823644,
             "language": "C++",
             "last_commit": "2016-03-10T19:28:17Z",
             "owner": "Rcpp11",
@@ -1364,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99278989,
             "language": "HTML",
             "last_commit": "2026-07-01T15:04:50Z",
             "owner": "JuliaInterop",
@@ -1378,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27154014,
             "language": "C++",
             "last_commit": "2026-05-12T18:07:25Z",
             "owner": "jeroen",
@@ -1392,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18552483,
             "language": "C",
             "last_commit": "2017-10-20T17:08:34Z",
             "owner": "armgong",
@@ -1406,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11602507,
             "language": "R",
             "last_commit": "2017-09-14T18:46:42Z",
             "owner": "yihui",
@@ -1420,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13150029,
             "language": "M4",
             "last_commit": "2021-02-06T08:54:29Z",
             "owner": "renozao",
@@ -1434,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17696871,
             "language": "R",
             "last_commit": "2014-08-30T22:44:27Z",
             "owner": "cran",
@@ -1454,6 +1552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63273973,
             "language": "C++",
             "last_commit": "2026-07-23T17:29:08Z",
             "owner": "r-dbi",
@@ -1468,6 +1567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28823976,
             "language": "R",
             "last_commit": "2026-08-09T02:33:50Z",
             "owner": "r-dbi",
@@ -1482,8 +1582,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13610317,
             "language": "R",
-            "last_commit": "2026-08-18T02:08:29Z",
+            "last_commit": "2026-08-19T02:14:56Z",
             "owner": "r-dbi",
             "repo": "DBI",
             "stars": 323
@@ -1496,6 +1597,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24347934,
             "language": "C",
             "last_commit": "2026-07-20T19:21:25Z",
             "owner": "jeroen",
@@ -1510,6 +1612,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14388493,
             "language": "R",
             "last_commit": "2025-12-02T09:36:32Z",
             "owner": "ropensci-archive",
@@ -1524,6 +1627,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19565289,
             "language": "R",
             "last_commit": "2019-02-19T15:23:19Z",
             "owner": "nicolewhite",
@@ -1538,6 +1642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96334875,
             "language": "R",
             "last_commit": "2026-08-09T02:35:58Z",
             "owner": "r-dbi",
@@ -1552,6 +1657,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2655863,
             "language": "R",
             "last_commit": "2017-07-19T01:04:45Z",
             "owner": "nexr",
@@ -1566,6 +1672,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45845155,
             "language": "R",
             "last_commit": "2025-09-01T14:13:01Z",
             "owner": "richfitz",
@@ -1580,6 +1687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48241427,
             "language": "R",
             "last_commit": "2024-12-08T16:00:57Z",
             "owner": "Cidree",
@@ -1594,6 +1702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13825114,
             "language": "C",
             "last_commit": "2016-03-21T10:36:28Z",
             "owner": "dselivanov",
@@ -1614,6 +1723,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34864402,
             "language": "C++",
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
@@ -1628,11 +1738,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73872834,
             "language": "Python",
             "last_commit": "2026-08-15T03:38:56Z",
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20364
+            "stars": 20365
           }
         },
         {
@@ -1642,6 +1753,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3403779,
             "language": "R",
             "last_commit": "2019-05-26T16:52:29Z",
             "owner": "johnmyleswhite",
@@ -1656,6 +1768,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27778839,
             "language": "R",
             "last_commit": "2019-08-30T19:49:16Z",
             "owner": "twitter",
@@ -1670,6 +1783,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22765467,
             "language": "R",
             "last_commit": "2026-03-31T04:46:51Z",
             "owner": "google",
@@ -1684,6 +1798,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12465340,
             "language": "R",
             "last_commit": "2025-08-22T19:47:49Z",
             "owner": "mlr-org",
@@ -1698,6 +1813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146200962,
             "language": "R",
             "last_commit": "2026-08-18T14:50:43Z",
             "owner": "mlr-org",
@@ -1712,6 +1828,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41377351,
             "language": "C++",
             "last_commit": "2026-02-01T20:02:40Z",
             "owner": "imbs-hl",
@@ -1726,6 +1843,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25694560,
             "language": "C++",
             "last_commit": "2017-08-15T03:23:50Z",
             "owner": "twitter",
@@ -1740,6 +1858,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6629252,
             "language": "HTML",
             "last_commit": "2026-08-12T21:38:55Z",
             "owner": "lme4",
@@ -1754,6 +1873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122282872,
             "language": "R",
             "last_commit": "2026-06-11T23:05:38Z",
             "owner": "tidyverts",
@@ -1768,6 +1888,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46739949,
             "language": "C++",
             "last_commit": "2018-07-04T19:24:02Z",
             "owner": "tqchen",
@@ -1782,6 +1903,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49833769,
             "language": "R",
             "last_commit": "2026-07-30T05:18:55Z",
             "owner": "kassambara",
@@ -1796,6 +1918,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125931913,
             "language": "R",
             "last_commit": "2023-12-28T15:19:53Z",
             "owner": "business-science",
@@ -1810,6 +1933,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1622048,
             "language": "R",
             "last_commit": "2026-08-16T01:39:12Z",
             "owner": "ecpolley",
@@ -1824,6 +1948,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1336015,
             "language": null,
             "last_commit": "2017-06-29T07:34:33Z",
             "owner": "Jason2Brownlee",
@@ -1844,6 +1969,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5424649,
             "language": "R",
             "last_commit": "2026-08-14T09:23:11Z",
             "owner": "quanteda",
@@ -1858,6 +1984,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40227854,
             "language": "R",
             "last_commit": "2025-12-01T09:36:22Z",
             "owner": "dselivanov",
@@ -1872,6 +1999,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17429998,
             "language": "JavaScript",
             "last_commit": "2024-02-06T16:21:59Z",
             "owner": "cpsievert",
@@ -1886,6 +2014,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48293781,
             "language": "R",
             "last_commit": "2016-01-30T22:10:20Z",
             "owner": "trinker",
@@ -1900,6 +2029,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107551526,
             "language": "C",
             "last_commit": "2026-08-09T00:51:36Z",
             "owner": "krlmlr",
@@ -1914,18 +2044,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58651396,
             "language": "R",
             "last_commit": "2022-05-10T13:54:02Z",
             "owner": "ropensci-archive",
             "repo": "monkeylearn",
             "stars": 92
           }
-        },
-        {
-          "node_type": "item",
-          "title": "NLP for",
-          "description": "NLP related resources in R. @Chinese",
-          "children": []
         }
       ],
       "title": "Natural Language Processing"
@@ -1940,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55921016,
             "language": "R",
             "last_commit": "2026-04-17T18:25:35Z",
             "owner": "briatte",
@@ -1954,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84092668,
             "language": "R",
             "last_commit": "2025-02-05T21:43:32Z",
             "owner": "thomasp85",
@@ -1968,6 +2095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34519310,
             "language": "JavaScript",
             "last_commit": "2026-07-15T13:52:15Z",
             "owner": "datastorm-open",
@@ -1982,6 +2110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28208077,
             "language": "R",
             "last_commit": "2026-08-16T00:27:05Z",
             "owner": "USCCANA",
@@ -2002,6 +2131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2876618,
             "language": "R",
             "last_commit": "2025-08-31T21:12:20Z",
             "owner": "dkahle",
@@ -2016,6 +2146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37541960,
             "language": "R",
             "last_commit": "2025-07-18T18:43:22Z",
             "owner": "walkerke",
@@ -2030,6 +2161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39423136,
             "language": "JavaScript",
             "last_commit": "2019-12-06T09:05:01Z",
             "owner": "Lchiffon",
@@ -2044,6 +2176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48376233,
             "language": "C",
             "last_commit": "2026-04-29T16:43:14Z",
             "owner": "r-spatial",
@@ -2058,6 +2191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22839956,
             "language": "R",
             "last_commit": "2026-07-29T02:24:41Z",
             "owner": "spatstat",
@@ -2072,6 +2206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13095312,
             "language": "R",
             "last_commit": "2025-01-23T11:53:50Z",
             "owner": "edzer",
@@ -2086,6 +2221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566049141,
             "language": null,
             "last_commit": "2022-11-10T22:20:41Z",
             "owner": "mtennekes",
@@ -2106,6 +2242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643909,
             "language": "R",
             "last_commit": "2026-08-18T23:59:36Z",
             "owner": "r-lib",
@@ -2120,6 +2257,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24548375,
             "language": "R",
             "last_commit": "2026-08-18T21:48:37Z",
             "owner": "r-lib",
@@ -2134,6 +2272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159560389,
             "language": "R",
             "last_commit": "2026-08-17T17:53:04Z",
             "owner": "rstudio",
@@ -2148,11 +2287,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10223958,
             "language": "R",
             "last_commit": "2026-08-16T17:07:42Z",
             "owner": "klmr",
             "repo": "box",
-            "stars": 973
+            "stars": 974
           }
         },
         {
@@ -2162,6 +2302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295311,
             "language": "R",
             "last_commit": "2026-07-06T02:36:57Z",
             "owner": "r-lib",
@@ -2176,6 +2317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55053352,
             "language": "R",
             "last_commit": "2024-08-18T18:43:22Z",
             "owner": "daattali",
@@ -2190,6 +2332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3723845,
             "language": "R",
             "last_commit": "2026-08-12T09:24:43Z",
             "owner": "r-lib",
@@ -2204,6 +2347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1765057,
             "language": "R",
             "last_commit": "2026-08-04T20:24:58Z",
             "owner": "r-lib",
@@ -2218,6 +2362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19521307,
             "language": "R",
             "last_commit": "2025-10-20T21:08:56Z",
             "owner": "r-lib",
@@ -2232,6 +2377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28287105,
             "language": "R",
             "last_commit": "2026-01-05T18:56:39Z",
             "owner": "r-lib",
@@ -2246,6 +2392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8501831,
             "language": "R",
             "last_commit": "2025-11-29T12:08:14Z",
             "owner": "talgalili",
@@ -2260,6 +2407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31763299,
             "language": "R",
             "last_commit": "2025-10-20T12:33:10Z",
             "owner": "rticulate",
@@ -2274,6 +2422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7491765,
             "language": "R",
             "last_commit": "2024-05-17T19:01:29Z",
             "owner": "hadley",
@@ -2288,6 +2437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88316400,
             "language": "R",
             "last_commit": "2024-02-27T15:04:47Z",
             "owner": "yonicd",
@@ -2302,6 +2452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30158790,
             "language": "HTML",
             "last_commit": "2026-08-10T02:15:28Z",
             "owner": "eddelbuettel",
@@ -2316,6 +2467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13103871,
             "language": "JavaScript",
             "last_commit": "2015-11-13T12:57:15Z",
             "owner": "hadley",
@@ -2330,6 +2482,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34840236,
             "language": "R",
             "last_commit": "2022-05-10T13:48:13Z",
             "owner": "ropensci-archive",
@@ -2350,6 +2503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2626971,
             "language": "R",
             "last_commit": "2025-12-22T16:00:00Z",
             "owner": "zatonovo",
@@ -2364,6 +2518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 860567,
             "language": "R",
             "last_commit": "2026-08-04T22:53:30Z",
             "owner": "r-lib",
@@ -2384,6 +2539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22526233,
             "language": "R",
             "last_commit": "2026-02-08T04:52:56Z",
             "owner": "jalapic",
@@ -2398,6 +2554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25721466,
             "language": "R",
             "last_commit": "2025-06-12T15:04:02Z",
             "owner": "jennybc",
@@ -2412,6 +2569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233876499,
             "language": "COBOL",
             "last_commit": "2024-08-07T21:17:16Z",
             "owner": "thospfuller",
@@ -2426,6 +2584,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224925583,
             "language": "R",
             "last_commit": "2021-05-14T15:38:34Z",
             "owner": "rrrlw",
@@ -2446,6 +2605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20585604,
             "language": "R",
             "last_commit": "2017-06-30T22:38:54Z",
             "owner": "rho-devel",
@@ -2460,6 +2620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1411988,
             "language": "C++",
             "last_commit": "2015-09-24T18:04:10Z",
             "owner": "jtalbot",
@@ -2471,441 +2632,522 @@
       "title": "Other Interpreters"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Websites"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
+      "description": "Where to discover new R-esources.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Readings in Applied Data Science",
-          "description": "These readings reflect Hadley's personal thoughts about applied data science.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2018-06-21T15:57:29Z",
-            "owner": "hadley",
-            "repo": "stats337",
-            "stars": 1612
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Readings in Applied Data Science",
+                  "description": "These readings reflect Hadley's personal thoughts about applied data science.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 126899087,
+                    "language": "R",
+                    "last_commit": "2018-06-21T15:57:29Z",
+                    "owner": "hadley",
+                    "repo": "stats337",
+                    "stars": 1612
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "R Books List",
+                  "description": "List of R Books.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41230142,
+                    "language": "R",
+                    "last_commit": "2017-11-02T09:19:37Z",
+                    "owner": "romantseg",
+                    "repo": "rbooks",
+                    "stars": 281
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Book/monograph Lists and Reviews"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
         },
         {
-          "node_type": "item",
-          "title": "R Books List",
-          "description": "List of R Books.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2017-11-02T09:19:37Z",
-            "owner": "romantseg",
-            "repo": "rbooks",
-            "stars": 281
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Posts",
+              "description": "Great R blog posts or Rticles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22003158,
+                "language": "R",
+                "last_commit": "2025-09-18T16:46:19Z",
+                "owner": "qinwf",
+                "repo": "awesome-R",
+                "stars": 6499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Network Analysis",
+              "description": "Network Analysis related resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55921016,
+                "language": "R",
+                "last_commit": "2026-04-17T18:25:35Z",
+                "owner": "briatte",
+                "repo": "awesome-network-analysis",
+                "stars": 4093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RStudio Addins",
+              "description": "List of RStudio addins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55053352,
+                "language": "R",
+                "last_commit": "2024-08-18T18:43:22Z",
+                "owner": "daattali",
+                "repo": "addinslist",
+                "stars": 871
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RStartHere",
+              "description": "A guide to some of the most useful R packages, organized by workflow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57074111,
+                "language": "R",
+                "last_commit": "2019-09-16T16:42:30Z",
+                "owner": "rstudio",
+                "repo": "RStartHere",
+                "stars": 662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Books",
+              "description": "List of R Books.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41230142,
+                "language": "R",
+                "last_commit": "2017-11-02T09:19:37Z",
+                "owner": "romantseg",
+                "repo": "rbooks",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Topic Models",
+              "description": "Topic Models learning and R related resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48293781,
+                "language": "R",
+                "last_commit": "2016-01-30T22:10:20Z",
+                "owner": "trinker",
+                "repo": "topicmodels_learning",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Data",
+              "description": "Using R to obtain, parse, manipulate, create, and share open data.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34140894,
+                "language": "R",
+                "last_commit": "2022-05-10T13:48:07Z",
+                "owner": "ropensci-archive",
+                "repo": "opendata",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Technologies",
+              "description": "Information about how to use R and the world wide web together.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12711013,
+                "language": "R",
+                "last_commit": "2026-07-21T09:48:30Z",
+                "owner": "cran-task-views",
+                "repo": "WebTechnologies",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Package Development",
+              "description": "R packages to improve package development.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34840236,
+                "language": "R",
+                "last_commit": "2022-05-10T13:48:13Z",
+                "owner": "ropensci-archive",
+                "repo": "PackageDevelopment",
+                "stars": 41
+              }
+            }
+          ],
+          "description": "Great resources for learning domain knowledge.",
+          "node_type": "group",
+          "title": "Lists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Readings in Applied Data Science",
+              "description": "These readings reflect Hadley's personal thoughts about applied data science.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126899087,
+                "language": "R",
+                "last_commit": "2018-06-21T15:57:29Z",
+                "owner": "hadley",
+                "repo": "stats337",
+                "stars": 1612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fable",
+              "description": "univariate and multivariate time series forecasting models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122282872,
+                "language": "R",
+                "last_commit": "2026-06-11T23:05:38Z",
+                "owner": "tidyverts",
+                "repo": "fable",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rstats-ed",
+              "description": "List of courses teaching R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147046904,
+                "language": null,
+                "last_commit": "2023-06-08T11:00:02Z",
+                "owner": "rstudio-education",
+                "repo": "rstats-ed",
+                "stars": 453
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2018"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "prophet",
+              "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73872834,
+                "language": "Python",
+                "last_commit": "2026-08-15T03:38:56Z",
+                "owner": "facebook",
+                "repo": "prophet",
+                "stars": 20365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Patchwork",
+              "description": "Combine separate ggplots into the same graphic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112388106,
+                "language": "R",
+                "last_commit": "2025-08-25T10:11:42Z",
+                "owner": "thomasp85",
+                "repo": "patchwork",
+                "stars": 2614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tidyverse",
+              "description": "Easily install and load packages from the tidyverse",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67510715,
+                "language": "R",
+                "last_commit": "2025-06-18T20:15:42Z",
+                "owner": "tidyverse",
+                "repo": "tidyverse",
+                "stars": 1799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blogdown",
+              "description": "Create Blogs and Websites with R Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72671522,
+                "language": "R",
+                "last_commit": "2026-06-19T19:22:36Z",
+                "owner": "rstudio",
+                "repo": "blogdown",
+                "stars": 1793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reticulate",
+              "description": "R Interface to Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81120794,
+                "language": "R",
+                "last_commit": "2026-08-18T20:19:38Z",
+                "owner": "rstudio",
+                "repo": "reticulate",
+                "stars": 1757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xaringan",
+              "description": "Create HTML5 slides with R Markdown and the JavaScript library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74937064,
+                "language": "CSS",
+                "last_commit": "2025-08-18T15:14:56Z",
+                "owner": "yihui",
+                "repo": "xaringan",
+                "stars": 1519
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "purrr",
+              "description": "A functional programming toolkit for R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27309729,
+                "language": "R",
+                "last_commit": "2026-07-22T18:58:16Z",
+                "owner": "tidyverse",
+                "repo": "purrr",
+                "stars": 1401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hrbrthemes",
+              "description": "🔏 Opinionated, typographic-centric ggplot2 themes and theme components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81667483,
+                "language": "R",
+                "last_commit": "2026-04-19T13:43:33Z",
+                "owner": "hrbrmstr",
+                "repo": "hrbrthemes",
+                "stars": 1353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tensorflow",
+              "description": "TensorFlow for R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66285767,
+                "language": "R",
+                "last_commit": "2026-05-08T15:49:04Z",
+                "owner": "rstudio",
+                "repo": "tensorflow",
+                "stars": 1339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lintr",
+              "description": "Static Code Analysis for R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24548375,
+                "language": "R",
+                "last_commit": "2026-08-18T21:48:37Z",
+                "owner": "r-lib",
+                "repo": "lintr",
+                "stars": 1291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reprex",
+              "description": "Render bits of R code for sharing, e.g., on GitHub or StackOverflow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41376769,
+                "language": "R",
+                "last_commit": "2026-04-10T16:35:47Z",
+                "owner": "tidyverse",
+                "repo": "reprex",
+                "stars": 752
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "glue",
+              "description": "Glue strings to data in R. Small, fast, dependency free interpreted string literals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77250656,
+                "language": "R",
+                "last_commit": "2026-04-21T22:38:06Z",
+                "owner": "tidyverse",
+                "repo": "glue",
+                "stars": 749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "covr",
+              "description": "Test coverage reports for R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28287105,
+                "language": "R",
+                "last_commit": "2026-01-05T18:56:39Z",
+                "owner": "r-lib",
+                "repo": "covr",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "utf8",
+              "description": "Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107551526,
+                "language": "C",
+                "last_commit": "2026-08-09T00:51:36Z",
+                "owner": "krlmlr",
+                "repo": "utf8",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2017"
         }
       ],
-      "title": "Book/monograph Lists and Reviews"
+      "title": "Resources"
     },
     {
-      "description": "Great resources for learning domain knowledge.",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Posts",
-          "description": "Great R blog posts or Rticles.",
+          "title": "awesome-awesomeness",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "R",
-            "last_commit": "2025-09-18T16:46:19Z",
-            "owner": "qinwf",
-            "repo": "awesome-R",
-            "stars": 6499
+            "id": 21600440,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33609
           }
         },
         {
           "node_type": "item",
-          "title": "Network Analysis",
-          "description": "Network Analysis related resources.",
+          "title": "lists",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "R",
-            "last_commit": "2026-04-17T18:25:35Z",
-            "owner": "briatte",
-            "repo": "awesome-network-analysis",
-            "stars": 4093
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RStudio Addins",
-          "description": "List of RStudio addins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2024-08-18T18:43:22Z",
-            "owner": "daattali",
-            "repo": "addinslist",
-            "stars": 871
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RStartHere",
-          "description": "A guide to some of the most useful R packages, organized by workflow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2019-09-16T16:42:30Z",
-            "owner": "rstudio",
-            "repo": "RStartHere",
-            "stars": 662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Books",
-          "description": "List of R Books.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2017-11-02T09:19:37Z",
-            "owner": "romantseg",
-            "repo": "rbooks",
-            "stars": 281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Topic Models",
-          "description": "Topic Models learning and R related resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2016-01-30T22:10:20Z",
-            "owner": "trinker",
-            "repo": "topicmodels_learning",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open Data",
-          "description": "Using R to obtain, parse, manipulate, create, and share open data.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "R",
-            "last_commit": "2022-05-10T13:48:07Z",
-            "owner": "ropensci-archive",
-            "repo": "opendata",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web Technologies",
-          "description": "Information about how to use R and the world wide web together.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-21T09:48:30Z",
-            "owner": "cran-task-views",
-            "repo": "WebTechnologies",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Package Development",
-          "description": "R packages to improve package development.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "R",
-            "last_commit": "2022-05-10T13:48:13Z",
-            "owner": "ropensci-archive",
-            "repo": "PackageDevelopment",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Natural Language Processing",
-          "description": "NLP related resources in R. @Chinese",
-          "children": []
-        }
-      ],
-      "title": "Lists"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Readings in Applied Data Science",
-          "description": "These readings reflect Hadley's personal thoughts about applied data science.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2018-06-21T15:57:29Z",
-            "owner": "hadley",
-            "repo": "stats337",
-            "stars": 1612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fable",
-          "description": "univariate and multivariate time series forecasting models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-06-11T23:05:38Z",
-            "owner": "tidyverts",
-            "repo": "fable",
-            "stars": 587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rstats-ed",
-          "description": "List of courses teaching R",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 14408715,
             "language": null,
-            "last_commit": "2023-06-08T11:00:02Z",
-            "owner": "rstudio-education",
-            "repo": "rstats-ed",
-            "stars": 453
+            "last_commit": "2026-03-23T20:19:22Z",
+            "owner": "jnv",
+            "repo": "lists",
+            "stars": 11422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-rshiny",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89300938,
+            "language": "R",
+            "last_commit": "2022-10-07T09:07:26Z",
+            "owner": "grabear",
+            "repo": "awesome-rshiny",
+            "stars": 869
           }
         }
       ],
-      "title": "2018"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "prophet",
-          "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T03:38:56Z",
-            "owner": "facebook",
-            "repo": "prophet",
-            "stars": 20364
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Patchwork",
-          "description": "Combine separate ggplots into the same graphic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-08-25T10:11:42Z",
-            "owner": "thomasp85",
-            "repo": "patchwork",
-            "stars": 2614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tidyverse",
-          "description": "Easily install and load packages from the tidyverse",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-06-18T20:15:42Z",
-            "owner": "tidyverse",
-            "repo": "tidyverse",
-            "stars": 1799
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "blogdown",
-          "description": "Create Blogs and Websites with R Markdown",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-06-19T19:22:36Z",
-            "owner": "rstudio",
-            "repo": "blogdown",
-            "stars": 1793
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reticulate",
-          "description": "R Interface to Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-18T20:19:38Z",
-            "owner": "rstudio",
-            "repo": "reticulate",
-            "stars": 1757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xaringan",
-          "description": "Create HTML5 slides with R Markdown and the JavaScript library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-08-18T15:14:56Z",
-            "owner": "yihui",
-            "repo": "xaringan",
-            "stars": 1519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "purrr",
-          "description": "A functional programming toolkit for R",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-22T18:58:16Z",
-            "owner": "tidyverse",
-            "repo": "purrr",
-            "stars": 1401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hrbrthemes",
-          "description": "🔏 Opinionated, typographic-centric ggplot2 themes and theme components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-04-19T13:43:33Z",
-            "owner": "hrbrmstr",
-            "repo": "hrbrthemes",
-            "stars": 1353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tensorflow",
-          "description": "TensorFlow for R",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-05-08T15:49:04Z",
-            "owner": "rstudio",
-            "repo": "tensorflow",
-            "stars": 1339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lintr",
-          "description": "Static Code Analysis for R",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-18T21:48:37Z",
-            "owner": "r-lib",
-            "repo": "lintr",
-            "stars": 1291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reprex",
-          "description": "Render bits of R code for sharing, e.g., on GitHub or StackOverflow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-04-10T16:35:47Z",
-            "owner": "tidyverse",
-            "repo": "reprex",
-            "stars": 752
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "glue",
-          "description": "Glue strings to data in R. Small, fast, dependency free interpreted string literals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-04-21T22:38:06Z",
-            "owner": "tidyverse",
-            "repo": "glue",
-            "stars": 749
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "covr",
-          "description": "Test coverage reports for R",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-01-05T18:56:39Z",
-            "owner": "r-lib",
-            "repo": "covr",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "utf8",
-          "description": "Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-09T00:51:36Z",
-            "owner": "krlmlr",
-            "repo": "utf8",
-            "stars": 112
-          }
-        }
-      ],
-      "title": "2017"
+      "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:56:24.335Z",
+    "last_updated": "2026-08-19T12:12:06.940Z",
     "original_repository": "qinwf/awesome-R",
+    "original_repository_id": 22003158,
     "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
     "enhanced_repository": "enhansome/enhansome-R",
     "enhanced_repository_description": null,
