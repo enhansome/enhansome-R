@@ -213,7 +213,7 @@
             "last_commit": "2026-06-02T15:25:25Z",
             "owner": "tidyverse",
             "repo": "dplyr",
-            "stars": 5057
+            "stars": 5058
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-15T20:46:51Z",
             "owner": "Rdatatable",
             "repo": "data.table",
-            "stars": 3909
+            "stars": 3910
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2025-11-04T22:52:35Z",
             "owner": "tidyverse",
             "repo": "stringr",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6981
+            "stars": 6982
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-09T07:10:11Z",
             "owner": "IndrajeetPatil",
             "repo": "ggstatsplot",
-            "stars": 2192
+            "stars": 2193
           }
         },
         {
@@ -1104,10 +1104,10 @@
             "archived": false,
             "id": 2594513,
             "language": "R",
-            "last_commit": "2026-07-01T13:28:34Z",
+            "last_commit": "2026-08-20T00:22:19Z",
             "owner": "yihui",
             "repo": "knitr",
-            "stars": 2464
+            "stars": 2465
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 75412704,
             "language": "R",
-            "last_commit": "2025-12-21T21:39:40Z",
+            "last_commit": "2026-08-19T12:59:32Z",
             "owner": "leifeld-lab",
             "repo": "texreg",
             "stars": 118
@@ -1218,7 +1218,7 @@
             "last_commit": "2026-08-17T16:00:50Z",
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5677
+            "stars": 5678
           }
         },
         {
@@ -1728,7 +1728,7 @@
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20810
+            "stars": 20809
           }
         },
         {
@@ -1803,7 +1803,7 @@
             "last_commit": "2025-08-22T19:47:49Z",
             "owner": "mlr-org",
             "repo": "mlr",
-            "stars": 1687
+            "stars": 1688
           }
         },
         {
@@ -1818,7 +1818,7 @@
             "last_commit": "2026-08-18T14:50:43Z",
             "owner": "mlr-org",
             "repo": "mlr3",
-            "stars": 1079
+            "stars": 1080
           }
         },
         {
@@ -1860,7 +1860,7 @@
             "archived": false,
             "id": 6629252,
             "language": "HTML",
-            "last_commit": "2026-08-12T21:38:55Z",
+            "last_commit": "2026-08-19T21:54:53Z",
             "owner": "lme4",
             "repo": "lme4",
             "stars": 694
@@ -1908,7 +1908,7 @@
             "last_commit": "2026-07-30T05:18:55Z",
             "owner": "kassambara",
             "repo": "survminer",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -1974,7 +1974,7 @@
             "last_commit": "2026-08-14T09:23:11Z",
             "owner": "quanteda",
             "repo": "quanteda",
-            "stars": 887
+            "stars": 888
           }
         },
         {
@@ -3107,7 +3107,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33609
+            "stars": 33610
           }
         },
         {
@@ -3122,7 +3122,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11422
+            "stars": 11421
           }
         },
         {
@@ -3145,7 +3145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:06.940Z",
+    "last_updated": "2026-08-20T01:55:22.607Z",
     "original_repository": "qinwf/awesome-R",
     "original_repository_id": 22003158,
     "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
