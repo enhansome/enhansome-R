@@ -225,7 +225,7 @@
             "archived": false,
             "id": 20597509,
             "language": "R",
-            "last_commit": "2026-08-20T13:42:43Z",
+            "last_commit": "2026-08-24T11:45:17Z",
             "owner": "Rdatatable",
             "repo": "data.table",
             "stars": 3910
@@ -600,7 +600,7 @@
             "last_commit": "2025-08-25T10:11:42Z",
             "owner": "thomasp85",
             "repo": "patchwork",
-            "stars": 2612
+            "stars": 2611
           }
         },
         {
@@ -612,10 +612,10 @@
             "archived": false,
             "id": 116717490,
             "language": "R",
-            "last_commit": "2026-08-23T16:54:15Z",
+            "last_commit": "2026-08-24T13:51:40Z",
             "owner": "IndrajeetPatil",
             "repo": "ggstatsplot",
-            "stars": 2195
+            "stars": 2197
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-04-14T13:38:53Z",
             "owner": "slowkow",
             "repo": "ggrepel",
-            "stars": 1258
+            "stars": 1259
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-07-25T00:33:15Z",
             "owner": "plotly",
             "repo": "plotly.R",
-            "stars": 2676
+            "stars": 2677
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2024-08-18T18:43:47Z",
             "owner": "daattali",
             "repo": "timevis",
-            "stars": 682
+            "stars": 683
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 75412704,
             "language": "R",
-            "last_commit": "2026-08-21T19:30:10Z",
+            "last_commit": "2026-08-24T13:54:41Z",
             "owner": "leifeld-lab",
             "repo": "texreg",
             "stars": 118
@@ -1218,7 +1218,7 @@
             "last_commit": "2026-08-20T15:24:14Z",
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5681
+            "stars": 5682
           }
         },
         {
@@ -1584,7 +1584,7 @@
             "archived": false,
             "id": 13610317,
             "language": "R",
-            "last_commit": "2026-08-23T02:10:41Z",
+            "last_commit": "2026-08-24T02:08:57Z",
             "owner": "r-dbi",
             "repo": "DBI",
             "stars": 323
@@ -1758,7 +1758,7 @@
             "last_commit": "2019-05-26T16:52:29Z",
             "owner": "johnmyleswhite",
             "repo": "ML_for_Hackers",
-            "stars": 3728
+            "stars": 3729
           }
         },
         {
@@ -2056,6 +2056,48 @@
       "title": "Natural Language Processing"
     },
     {
+      "description": "Packages for dealing with money.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scorecard",
+          "description": "Credit Risk Scorecard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97569409,
+            "language": "R",
+            "last_commit": "2026-02-07T05:49:40Z",
+            "owner": "ShichenXie",
+            "repo": "scorecard",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Finance"
+    },
+    {
+      "description": "Packages for processing biological datasets.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lme4",
+          "description": "Generalized mixed-effects models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6629252,
+            "language": "HTML",
+            "last_commit": "2026-08-21T19:43:30Z",
+            "owner": "lme4",
+            "repo": "lme4",
+            "stars": 695
+          }
+        }
+      ],
+      "title": "Bioinformatics and Biostatistics"
+    },
+    {
       "description": "Packages to construct, analyze and visualize network data.",
       "items": [
         {
@@ -2070,7 +2112,7 @@
             "last_commit": "2026-08-20T13:22:11Z",
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4099
+            "stars": 4100
           }
         },
         {
@@ -2259,7 +2301,7 @@
             "archived": false,
             "id": 24548375,
             "language": "R",
-            "last_commit": "2026-08-24T00:03:31Z",
+            "last_commit": "2026-08-24T07:19:53Z",
             "owner": "r-lib",
             "repo": "lintr",
             "stars": 1292
@@ -2292,7 +2334,7 @@
             "last_commit": "2026-08-16T17:07:42Z",
             "owner": "klmr",
             "repo": "box",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -2692,7 +2734,7 @@
                 "last_commit": "2025-09-18T16:46:19Z",
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6506
+                "stars": 6507
               }
             },
             {
@@ -2707,7 +2749,7 @@
                 "last_commit": "2026-08-20T13:22:11Z",
                 "owner": "briatte",
                 "repo": "awesome-network-analysis",
-                "stars": 4099
+                "stars": 4100
               }
             },
             {
@@ -2901,7 +2943,7 @@
                 "last_commit": "2025-08-25T10:11:42Z",
                 "owner": "thomasp85",
                 "repo": "patchwork",
-                "stars": 2612
+                "stars": 2611
               }
             },
             {
@@ -3018,7 +3060,7 @@
                 "archived": false,
                 "id": 24548375,
                 "language": "R",
-                "last_commit": "2026-08-24T00:03:31Z",
+                "last_commit": "2026-08-24T07:19:53Z",
                 "owner": "r-lib",
                 "repo": "lintr",
                 "stars": 1292
@@ -3107,7 +3149,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33619
+            "stars": 33620
           }
         },
         {
@@ -3122,7 +3164,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11435
+            "stars": 11436
           }
         },
         {
@@ -3145,7 +3187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:01:21.430Z",
+    "last_updated": "2026-08-24T13:56:34.151Z",
     "original_repository": "qinwf/awesome-R",
     "original_repository_id": 22003158,
     "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
