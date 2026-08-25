@@ -213,7 +213,7 @@
             "last_commit": "2026-06-02T15:25:25Z",
             "owner": "tidyverse",
             "repo": "dplyr",
-            "stars": 5060
+            "stars": 5061
           }
         },
         {
@@ -225,10 +225,10 @@
             "archived": false,
             "id": 20597509,
             "language": "R",
-            "last_commit": "2026-08-24T11:45:17Z",
+            "last_commit": "2026-08-24T20:29:26Z",
             "owner": "Rdatatable",
             "repo": "data.table",
-            "stars": 3910
+            "stars": 3911
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 116717490,
             "language": "R",
-            "last_commit": "2026-08-24T13:51:40Z",
+            "last_commit": "2026-08-24T16:58:48Z",
             "owner": "IndrajeetPatil",
             "repo": "ggstatsplot",
             "stars": 2197
@@ -1104,7 +1104,7 @@
             "archived": false,
             "id": 2594513,
             "language": "R",
-            "last_commit": "2026-08-21T22:31:46Z",
+            "last_commit": "2026-08-24T23:36:40Z",
             "owner": "yihui",
             "repo": "knitr",
             "stars": 2465
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 75412704,
             "language": "R",
-            "last_commit": "2026-08-24T13:54:41Z",
+            "last_commit": "2026-08-24T20:15:06Z",
             "owner": "leifeld-lab",
             "repo": "texreg",
             "stars": 118
@@ -1218,7 +1218,7 @@
             "last_commit": "2026-08-20T15:24:14Z",
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5682
+            "stars": 5681
           }
         },
         {
@@ -1233,7 +1233,7 @@
             "last_commit": "2025-09-09T10:02:49Z",
             "owner": "tidyverse",
             "repo": "rvest",
-            "stars": 1522
+            "stars": 1521
           }
         },
         {
@@ -1263,7 +1263,7 @@
             "last_commit": "2026-02-13T21:44:33Z",
             "owner": "r-lib",
             "repo": "httr",
-            "stars": 980
+            "stars": 981
           }
         },
         {
@@ -1803,7 +1803,7 @@
             "last_commit": "2025-08-22T19:47:49Z",
             "owner": "mlr-org",
             "repo": "mlr",
-            "stars": 1688
+            "stars": 1687
           }
         },
         {
@@ -2112,7 +2112,7 @@
             "last_commit": "2026-08-20T13:22:11Z",
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4100
+            "stars": 4101
           }
         },
         {
@@ -2154,7 +2154,7 @@
             "archived": false,
             "id": 28208077,
             "language": "R",
-            "last_commit": "2026-08-16T00:27:05Z",
+            "last_commit": "2026-08-24T19:59:37Z",
             "owner": "USCCANA",
             "repo": "netdiffuseR",
             "stars": 92
@@ -2289,7 +2289,7 @@
             "last_commit": "2026-08-18T23:59:36Z",
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2518
+            "stars": 2517
           }
         },
         {
@@ -2301,10 +2301,10 @@
             "archived": false,
             "id": 24548375,
             "language": "R",
-            "last_commit": "2026-08-24T07:19:53Z",
+            "last_commit": "2026-08-24T17:55:07Z",
             "owner": "r-lib",
             "repo": "lintr",
-            "stars": 1292
+            "stars": 1293
           }
         },
         {
@@ -2316,7 +2316,7 @@
             "archived": false,
             "id": 159560389,
             "language": "R",
-            "last_commit": "2026-08-21T17:36:58Z",
+            "last_commit": "2026-08-25T01:07:33Z",
             "owner": "rstudio",
             "repo": "renv",
             "stars": 1160
@@ -2734,7 +2734,7 @@
                 "last_commit": "2025-09-18T16:46:19Z",
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6507
+                "stars": 6508
               }
             },
             {
@@ -2749,7 +2749,7 @@
                 "last_commit": "2026-08-20T13:22:11Z",
                 "owner": "briatte",
                 "repo": "awesome-network-analysis",
-                "stars": 4100
+                "stars": 4101
               }
             },
             {
@@ -2973,7 +2973,7 @@
                 "last_commit": "2026-06-19T19:22:36Z",
                 "owner": "rstudio",
                 "repo": "blogdown",
-                "stars": 1793
+                "stars": 1792
               }
             },
             {
@@ -2985,7 +2985,7 @@
                 "archived": false,
                 "id": 81120794,
                 "language": "R",
-                "last_commit": "2026-08-18T20:19:38Z",
+                "last_commit": "2026-08-24T22:42:52Z",
                 "owner": "rstudio",
                 "repo": "reticulate",
                 "stars": 1757
@@ -3060,10 +3060,10 @@
                 "archived": false,
                 "id": 24548375,
                 "language": "R",
-                "last_commit": "2026-08-24T07:19:53Z",
+                "last_commit": "2026-08-24T17:55:07Z",
                 "owner": "r-lib",
                 "repo": "lintr",
-                "stars": 1292
+                "stars": 1293
               }
             },
             {
@@ -3149,7 +3149,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33623
           }
         },
         {
@@ -3164,7 +3164,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11436
+            "stars": 11438
           }
         },
         {
@@ -3187,7 +3187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:34.151Z",
+    "last_updated": "2026-08-25T01:56:16.496Z",
     "original_repository": "qinwf/awesome-R",
     "original_repository_id": 22003158,
     "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
