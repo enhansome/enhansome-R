@@ -612,7 +612,7 @@
             "archived": false,
             "id": 116717490,
             "language": "R",
-            "last_commit": "2026-08-24T16:58:48Z",
+            "last_commit": "2026-08-25T05:41:40Z",
             "owner": "IndrajeetPatil",
             "repo": "ggstatsplot",
             "stars": 2197
@@ -1584,7 +1584,7 @@
             "archived": false,
             "id": 13610317,
             "language": "R",
-            "last_commit": "2026-08-24T02:08:57Z",
+            "last_commit": "2026-08-25T02:04:38Z",
             "owner": "r-dbi",
             "repo": "DBI",
             "stars": 323
@@ -1743,7 +1743,7 @@
             "last_commit": "2026-08-15T03:38:56Z",
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20364
+            "stars": 20366
           }
         },
         {
@@ -2316,7 +2316,7 @@
             "archived": false,
             "id": 159560389,
             "language": "R",
-            "last_commit": "2026-08-25T01:07:33Z",
+            "last_commit": "2026-08-25T03:29:06Z",
             "owner": "rstudio",
             "repo": "renv",
             "stars": 1160
@@ -2928,7 +2928,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20364
+                "stars": 20366
               }
             },
             {
@@ -3149,7 +3149,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33623
+            "stars": 33625
           }
         },
         {
@@ -3164,7 +3164,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11438
+            "stars": 11439
           }
         },
         {
@@ -3187,7 +3187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:56:16.496Z",
+    "last_updated": "2026-08-25T05:47:23.108Z",
     "original_repository": "qinwf/awesome-R",
     "original_repository_id": 22003158,
     "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
