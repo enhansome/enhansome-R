@@ -12,7 +12,7 @@
             "archived": false,
             "id": 133241343,
             "language": "R",
-            "last_commit": "2026-08-23T15:27:45Z",
+            "last_commit": "2026-08-26T23:13:41Z",
             "owner": "tylermorganwall",
             "repo": "rayshader",
             "stars": 2175
@@ -81,7 +81,7 @@
             "last_commit": "2024-04-30T07:24:08Z",
             "owner": "IRkernel",
             "repo": "IRkernel",
-            "stars": 1698
+            "stars": 1699
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-06-02T15:25:25Z",
             "owner": "tidyverse",
             "repo": "dplyr",
-            "stars": 5061
+            "stars": 5063
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-25T15:38:04Z",
             "owner": "Rdatatable",
             "repo": "data.table",
-            "stars": 3912
+            "stars": 3914
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2025-11-04T22:52:35Z",
             "owner": "tidyverse",
             "repo": "stringr",
-            "stars": 669
+            "stars": 670
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2025-12-08T14:57:36Z",
             "owner": "wesm",
             "repo": "feather",
-            "stars": 2756
+            "stars": 2757
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6985
+            "stars": 6988
           }
         },
         {
@@ -1104,7 +1104,7 @@
             "archived": false,
             "id": 2594513,
             "language": "R",
-            "last_commit": "2026-08-24T23:36:40Z",
+            "last_commit": "2026-08-26T19:13:16Z",
             "owner": "yihui",
             "repo": "knitr",
             "stars": 2465
@@ -1122,7 +1122,7 @@
             "last_commit": "2026-08-19T11:02:58Z",
             "owner": "rstudio",
             "repo": "tinytex",
-            "stars": 1151
+            "stars": 1153
           }
         },
         {
@@ -1215,10 +1215,10 @@
             "archived": false,
             "id": 4729944,
             "language": "R",
-            "last_commit": "2026-08-25T19:50:14Z",
+            "last_commit": "2026-08-26T17:26:31Z",
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5681
+            "stars": 5682
           }
         },
         {
@@ -1572,7 +1572,7 @@
             "last_commit": "2026-08-09T02:33:50Z",
             "owner": "r-dbi",
             "repo": "RPostgres",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -1584,7 +1584,7 @@
             "archived": false,
             "id": 13610317,
             "language": "R",
-            "last_commit": "2026-08-25T02:04:38Z",
+            "last_commit": "2026-08-26T02:10:31Z",
             "owner": "r-dbi",
             "repo": "DBI",
             "stars": 323
@@ -1743,7 +1743,7 @@
             "last_commit": "2026-08-15T03:38:56Z",
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20368
+            "stars": 20370
           }
         },
         {
@@ -2112,7 +2112,7 @@
             "last_commit": "2026-08-20T13:22:11Z",
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4098
+            "stars": 4099
           }
         },
         {
@@ -2301,7 +2301,7 @@
             "archived": false,
             "id": 24548375,
             "language": "R",
-            "last_commit": "2026-08-24T17:55:07Z",
+            "last_commit": "2026-08-26T16:14:17Z",
             "owner": "r-lib",
             "repo": "lintr",
             "stars": 1294
@@ -2749,7 +2749,7 @@
                 "last_commit": "2026-08-20T13:22:11Z",
                 "owner": "briatte",
                 "repo": "awesome-network-analysis",
-                "stars": 4098
+                "stars": 4099
               }
             },
             {
@@ -2928,7 +2928,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20368
+                "stars": 20370
               }
             },
             {
@@ -2985,7 +2985,7 @@
                 "archived": false,
                 "id": 81120794,
                 "language": "R",
-                "last_commit": "2026-08-25T17:04:08Z",
+                "last_commit": "2026-08-26T18:29:02Z",
                 "owner": "rstudio",
                 "repo": "reticulate",
                 "stars": 1757
@@ -3060,7 +3060,7 @@
                 "archived": false,
                 "id": 24548375,
                 "language": "R",
-                "last_commit": "2026-08-24T17:55:07Z",
+                "last_commit": "2026-08-26T16:14:17Z",
                 "owner": "r-lib",
                 "repo": "lintr",
                 "stars": 1294
@@ -3149,7 +3149,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33624
+            "stars": 33628
           }
         },
         {
@@ -3164,7 +3164,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11438
+            "stars": 11439
           }
         },
         {
@@ -3187,7 +3187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:02:36.734Z",
+    "last_updated": "2026-08-27T10:00:16.607Z",
     "original_repository": "qinwf/awesome-R",
     "original_repository_id": 22003158,
     "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
