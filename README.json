@@ -630,7 +630,7 @@
             "last_commit": "2025-09-04T12:14:57Z",
             "owner": "thomasp85",
             "repo": "gganimate",
-            "stars": 1983
+            "stars": 1982
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-05-14T23:56:02Z",
             "owner": "nx10",
             "repo": "httpgd",
-            "stars": 506
+            "stars": 505
           }
         },
         {
@@ -1584,7 +1584,7 @@
             "archived": false,
             "id": 13610317,
             "language": "R",
-            "last_commit": "2026-08-26T02:10:31Z",
+            "last_commit": "2026-08-27T10:10:35Z",
             "owner": "r-dbi",
             "repo": "DBI",
             "stars": 323
@@ -1743,7 +1743,7 @@
             "last_commit": "2026-08-15T03:38:56Z",
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20370
+            "stars": 20372
           }
         },
         {
@@ -2928,7 +2928,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20370
+                "stars": 20372
               }
             },
             {
@@ -3187,9 +3187,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:00:16.607Z",
-    "original_repository": "qinwf/awesome-R",
-    "original_repository_id": 22003158,
+    "last_updated": "2026-08-27T11:58:26.715Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22003158,
+      "language": "R",
+      "last_commit": "2025-09-18T16:46:19Z",
+      "owner": "qinwf",
+      "repo": "awesome-R",
+      "stars": 6507
+    },
     "original_repository_sha": "e58c6d6f41795c133ae0a6e455a1727b021c8445",
     "enhanced_repository": "enhansome/enhansome-R",
     "enhanced_repository_description": null,
