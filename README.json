@@ -129,7 +129,7 @@
             "open_issues": 75,
             "owner": "IRkernel",
             "repo": "IRkernel",
-            "stars": 1699,
+            "stars": 1700,
             "topics": [
               "jupyter",
               "jupyter-kernels",
@@ -946,7 +946,7 @@
             "open_issues": 147,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6989,
+            "stars": 6990,
             "topics": [
               "data-visualisation",
               "r",
@@ -5079,10 +5079,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634,
+            "stars": 33635,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5100,7 +5100,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "jnv",
             "repo": "lists",
             "stars": 11441,
@@ -5146,7 +5146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:20.569Z",
+    "last_updated": "2026-08-29T07:11:37.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
