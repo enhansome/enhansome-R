@@ -695,7 +695,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-04-10T16:35:05Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "tidyverse",
             "repo": "readr",
             "stars": 1039,
@@ -835,7 +835,7 @@
             "id": 13305534,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T15:40:24Z",
+            "last_commit": "2026-09-03T13:26:51Z",
             "open_issues": 122,
             "owner": "jeroen",
             "repo": "jsonlite",
@@ -942,11 +942,11 @@
             "id": 19438,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T16:09:54Z",
-            "open_issues": 118,
+            "last_commit": "2026-09-03T18:17:42Z",
+            "open_issues": 119,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6991,
+            "stars": 6990,
             "topics": [
               "data-visualisation",
               "r",
@@ -971,7 +971,7 @@
             "open_issues": 81,
             "owner": "thomasp85",
             "repo": "patchwork",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "ggplot-extension",
               "ggplot2",
@@ -1222,7 +1222,7 @@
             "open_issues": 37,
             "owner": "nx10",
             "repo": "httpgd",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -1782,8 +1782,8 @@
             "id": 37119784,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-02T23:45:06Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-03T07:31:10Z",
+            "open_issues": 3,
             "owner": "juba",
             "repo": "scatterD3",
             "stars": 162,
@@ -2030,7 +2030,7 @@
             "open_issues": 39,
             "owner": "tidyverse",
             "repo": "rvest",
-            "stars": 1520,
+            "stars": 1521,
             "topics": [
               "html",
               "r",
@@ -2135,7 +2135,7 @@
             "open_issues": 49,
             "owner": "pablobarbera",
             "repo": "Rfacebook",
-            "stars": 352,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -2174,7 +2174,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T13:16:03Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "jeroen",
             "repo": "curl",
             "stars": 233,
@@ -2572,7 +2572,7 @@
             "id": 13610317,
             "language": "R",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-02T04:57:34Z",
+            "last_commit": "2026-09-03T04:55:37Z",
             "open_issues": 19,
             "owner": "r-dbi",
             "repo": "DBI",
@@ -2817,7 +2817,7 @@
             "open_issues": 452,
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20384,
+            "stars": 20386,
             "topics": [
               "forecasting",
               "python",
@@ -2863,7 +2863,7 @@
             "open_issues": 71,
             "owner": "twitter",
             "repo": "AnomalyDetection",
-            "stars": 3606,
+            "stars": 3605,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -2905,7 +2905,7 @@
             "open_issues": 13,
             "owner": "mlr-org",
             "repo": "mlr",
-            "stars": 1687,
+            "stars": 1686,
             "topics": [
               "classification",
               "clustering",
@@ -2947,7 +2947,7 @@
             "open_issues": 25,
             "owner": "mlr-org",
             "repo": "mlr3",
-            "stars": 1080,
+            "stars": 1079,
             "topics": [
               "classification",
               "data-science",
@@ -3406,7 +3406,7 @@
             "open_issues": 18,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4105,
+            "stars": 4107,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3693,10 +3693,10 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-08-18T23:59:36Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2517,
+            "stars": 2518,
             "topics": [
               "package-creation",
               "r"
@@ -3717,7 +3717,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T16:14:17Z",
-            "open_issues": 297,
+            "open_issues": 298,
             "owner": "r-lib",
             "repo": "lintr",
             "stars": 1293,
@@ -4396,7 +4396,7 @@
                 "open_issues": 29,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6507,
+                "stars": 6508,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4425,7 +4425,7 @@
                 "open_issues": 18,
                 "owner": "briatte",
                 "repo": "awesome-network-analysis",
-                "stars": 4105,
+                "stars": 4107,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4713,7 +4713,7 @@
                 "open_issues": 452,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20384,
+                "stars": 20386,
                 "topics": [
                   "forecasting",
                   "python",
@@ -4738,7 +4738,7 @@
                 "open_issues": 81,
                 "owner": "thomasp85",
                 "repo": "patchwork",
-                "stars": 2613,
+                "stars": 2614,
                 "topics": [
                   "ggplot-extension",
                   "ggplot2",
@@ -4814,8 +4814,8 @@
                 "id": 81120794,
                 "language": "R",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T00:42:32Z",
-                "open_issues": 476,
+                "last_commit": "2026-09-03T15:25:00Z",
+                "open_issues": 477,
                 "owner": "rstudio",
                 "repo": "reticulate",
                 "stars": 1757,
@@ -4944,7 +4944,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T16:14:17Z",
-                "open_issues": 297,
+                "open_issues": 298,
                 "owner": "r-lib",
                 "repo": "lintr",
                 "stars": 1293,
@@ -5082,7 +5082,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33644,
+            "stars": 33646,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5100,10 +5100,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11454,
+            "stars": 11456,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5146,7 +5146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:42:37.867Z",
+    "last_updated": "2026-09-04T04:44:15.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
@@ -5158,7 +5158,7 @@
       "open_issues": 29,
       "owner": "qinwf",
       "repo": "awesome-R",
-      "stars": 6507,
+      "stars": 6508,
       "topics": [
         "awesome",
         "awesome-list",
