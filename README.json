@@ -229,7 +229,7 @@
             "open_issues": 41,
             "owner": "tidyverse",
             "repo": "purrr",
-            "stars": 1403,
+            "stars": 1404,
             "topics": [
               "functional-programming",
               "r"
@@ -253,7 +253,7 @@
             "open_issues": 27,
             "owner": "tidyverse",
             "repo": "magrittr",
-            "stars": 972,
+            "stars": 971,
             "topics": [
               "pipe",
               "r"
@@ -325,7 +325,7 @@
             "open_issues": 94,
             "owner": "tidyverse",
             "repo": "dplyr",
-            "stars": 5066,
+            "stars": 5067,
             "topics": [
               "data-manipulation",
               "grammar",
@@ -420,7 +420,7 @@
             "open_issues": 122,
             "owner": "tidyverse",
             "repo": "lubridate",
-            "stars": 801,
+            "stars": 802,
             "topics": [
               "date",
               "date-time",
@@ -946,7 +946,7 @@
             "open_issues": 120,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6990,
+            "stars": 6991,
             "topics": [
               "data-visualisation",
               "r",
@@ -993,7 +993,7 @@
             "id": 116717490,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T05:41:40Z",
+            "last_commit": "2026-09-08T19:08:31Z",
             "open_issues": 0,
             "owner": "IndrajeetPatil",
             "repo": "ggstatsplot",
@@ -1820,7 +1820,7 @@
             "open_issues": 143,
             "owner": "yihui",
             "repo": "knitr",
-            "stars": 2466,
+            "stars": 2465,
             "topics": [
               "dynamic-documents",
               "knitr",
@@ -1846,10 +1846,10 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T11:02:58Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "rstudio",
             "repo": "tinytex",
-            "stars": 1158,
+            "stars": 1159,
             "topics": [
               "latex",
               "r-package",
@@ -2174,7 +2174,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T13:16:03Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "jeroen",
             "repo": "curl",
             "stars": 233,
@@ -2521,7 +2521,7 @@
             "id": 63273973,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T02:21:28Z",
+            "last_commit": "2026-09-08T09:02:52Z",
             "open_issues": 74,
             "owner": "r-dbi",
             "repo": "odbc",
@@ -2572,7 +2572,7 @@
             "id": 13610317,
             "language": "R",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-07T05:06:45Z",
+            "last_commit": "2026-09-08T05:03:26Z",
             "open_issues": 19,
             "owner": "r-dbi",
             "repo": "DBI",
@@ -2794,7 +2794,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20809,
+            "stars": 20808,
             "topics": [
               "mxnet"
             ]
@@ -2817,7 +2817,7 @@
             "open_issues": 453,
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20391,
+            "stars": 20393,
             "topics": [
               "forecasting",
               "python",
@@ -3015,7 +3015,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T01:11:55Z",
-            "open_issues": 198,
+            "open_issues": 199,
             "owner": "lme4",
             "repo": "lme4",
             "stars": 695,
@@ -3062,7 +3062,7 @@
             "open_issues": 0,
             "owner": "tqchen",
             "repo": "xgboost",
-            "stars": 580,
+            "stars": 581,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -3376,7 +3376,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T01:11:55Z",
-            "open_issues": 198,
+            "open_issues": 199,
             "owner": "lme4",
             "repo": "lme4",
             "stars": 695,
@@ -3696,7 +3696,7 @@
             "open_issues": 8,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2518,
+            "stars": 2517,
             "topics": [
               "package-creation",
               "r"
@@ -3740,7 +3740,7 @@
             "id": 159560389,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-08-28T01:06:55Z",
+            "last_commit": "2026-09-08T17:26:09Z",
             "open_issues": 217,
             "owner": "rstudio",
             "repo": "renv",
@@ -3765,7 +3765,7 @@
             "open_issues": 71,
             "owner": "klmr",
             "repo": "box",
-            "stars": 978,
+            "stars": 977,
             "topics": [
               "modules",
               "packages",
@@ -3835,7 +3835,7 @@
             "open_issues": 105,
             "owner": "r-lib",
             "repo": "pkgdown",
-            "stars": 773,
+            "stars": 774,
             "topics": [
               "documentation-tool",
               "package",
@@ -4713,7 +4713,7 @@
                 "open_issues": 453,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20391,
+                "stars": 20393,
                 "topics": [
                   "forecasting",
                   "python",
@@ -4871,7 +4871,7 @@
                 "open_issues": 41,
                 "owner": "tidyverse",
                 "repo": "purrr",
-                "stars": 1403,
+                "stars": 1404,
                 "topics": [
                   "functional-programming",
                   "r"
@@ -5079,10 +5079,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33657,
+            "stars": 33660,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5103,7 +5103,7 @@
             "open_issues": 25,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11465,
+            "stars": 11467,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5146,7 +5146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T04:51:09.899Z",
+    "last_updated": "2026-09-09T04:53:30.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
