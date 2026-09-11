@@ -100,7 +100,7 @@
             "open_issues": 210,
             "owner": "randy3k",
             "repo": "radian",
-            "stars": 2288,
+            "stars": 2289,
             "topics": [
               "cli",
               "console",
@@ -346,8 +346,8 @@
             "id": 20597509,
             "language": "R",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-06T07:37:41Z",
-            "open_issues": 983,
+            "last_commit": "2026-09-10T09:31:38Z",
+            "open_issues": 984,
             "owner": "Rdatatable",
             "repo": "data.table",
             "stars": 3916,
@@ -393,7 +393,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-06-02T17:43:26Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "tidyverse",
             "repo": "tidyr",
             "stars": 1438,
@@ -946,7 +946,7 @@
             "open_issues": 122,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6991,
+            "stars": 6993,
             "topics": [
               "data-visualisation",
               "r",
@@ -968,7 +968,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2025-08-25T10:11:42Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "thomasp85",
             "repo": "patchwork",
             "stars": 2614,
@@ -1057,7 +1057,7 @@
             "open_issues": 35,
             "owner": "hrbrmstr",
             "repo": "hrbrthemes",
-            "stars": 1352,
+            "stars": 1353,
             "topics": [
               "data-visualization",
               "datavisualization",
@@ -1197,8 +1197,8 @@
             "id": 24807286,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:01:45Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-10T04:57:39Z",
+            "open_issues": 16,
             "owner": "sinhrks",
             "repo": "ggfortify",
             "stars": 541,
@@ -1467,7 +1467,7 @@
             "open_issues": 172,
             "owner": "rich-iannone",
             "repo": "DiagrammeR",
-            "stars": 1741,
+            "stars": 1742,
             "topics": [
               "graph",
               "graph-functions",
@@ -1816,8 +1816,8 @@
             "id": 2594513,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-06T20:04:15Z",
-            "open_issues": 143,
+            "last_commit": "2026-09-10T22:19:50Z",
+            "open_issues": 141,
             "owner": "yihui",
             "repo": "knitr",
             "stars": 2465,
@@ -1849,7 +1849,7 @@
             "open_issues": 27,
             "owner": "rstudio",
             "repo": "tinytex",
-            "stars": 1160,
+            "stars": 1163,
             "topics": [
               "latex",
               "r-package",
@@ -1999,10 +1999,10 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T17:26:31Z",
-            "open_issues": 867,
+            "open_issues": 866,
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5682,
+            "stars": 5683,
             "topics": [
               "r",
               "reactive",
@@ -2081,7 +2081,7 @@
             "open_issues": 12,
             "owner": "r-lib",
             "repo": "httr",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "api",
               "curl",
@@ -2572,7 +2572,7 @@
             "id": 13610317,
             "language": "R",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-09T05:04:05Z",
+            "last_commit": "2026-09-10T05:06:19Z",
             "open_issues": 19,
             "owner": "r-dbi",
             "repo": "DBI",
@@ -2794,7 +2794,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20808,
+            "stars": 20809,
             "topics": [
               "mxnet"
             ]
@@ -2817,7 +2817,7 @@
             "open_issues": 453,
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20393,
+            "stars": 20395,
             "topics": [
               "forecasting",
               "python",
@@ -2884,7 +2884,7 @@
             "open_issues": 31,
             "owner": "google",
             "repo": "CausalImpact",
-            "stars": 1858,
+            "stars": 1859,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -2976,7 +2976,7 @@
             "open_issues": 108,
             "owner": "imbs-hl",
             "repo": "ranger",
-            "stars": 813,
+            "stars": 814,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -3177,8 +3177,8 @@
             "id": 5424649,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-14T09:23:11Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-10T08:36:04Z",
+            "open_issues": 53,
             "owner": "quanteda",
             "repo": "quanteda",
             "stars": 887,
@@ -4713,7 +4713,7 @@
                 "open_issues": 453,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20393,
+                "stars": 20395,
                 "topics": [
                   "forecasting",
                   "python",
@@ -4735,7 +4735,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-25T10:11:42Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "thomasp85",
                 "repo": "patchwork",
                 "stars": 2614,
@@ -4895,7 +4895,7 @@
                 "open_issues": 35,
                 "owner": "hrbrmstr",
                 "repo": "hrbrthemes",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "data-visualization",
                   "datavisualization",
@@ -4926,7 +4926,7 @@
                 "open_issues": 41,
                 "owner": "rstudio",
                 "repo": "tensorflow",
-                "stars": 1340,
+                "stars": 1341,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5082,7 +5082,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33660,
+            "stars": 33662,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5146,7 +5146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T04:54:43.859Z",
+    "last_updated": "2026-09-11T04:51:38.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
