@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "tylermorganwall",
             "repo": "rayshader",
-            "stars": 2175,
+            "stars": 2176,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -325,7 +325,7 @@
             "open_issues": 94,
             "owner": "tidyverse",
             "repo": "dplyr",
-            "stars": 5066,
+            "stars": 5067,
             "topics": [
               "data-manipulation",
               "grammar",
@@ -347,10 +347,10 @@
             "language": "R",
             "license": "MPL-2.0",
             "last_commit": "2026-09-10T09:31:38Z",
-            "open_issues": 984,
+            "open_issues": 983,
             "owner": "Rdatatable",
             "repo": "data.table",
-            "stars": 3918,
+            "stars": 3919,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -946,7 +946,7 @@
             "open_issues": 124,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6995,
+            "stars": 6997,
             "topics": [
               "data-visualisation",
               "r",
@@ -993,7 +993,7 @@
             "id": 116717490,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T19:08:31Z",
+            "last_commit": "2026-09-16T19:30:47Z",
             "open_issues": 0,
             "owner": "IndrajeetPatil",
             "repo": "ggstatsplot",
@@ -1686,7 +1686,7 @@
             "open_issues": 39,
             "owner": "talgalili",
             "repo": "heatmaply",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "cran",
               "d3-heatmap",
@@ -1816,11 +1816,11 @@
             "id": 2594513,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-16T02:52:46Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-17T04:22:38Z",
+            "open_issues": 122,
             "owner": "yihui",
             "repo": "knitr",
-            "stars": 2466,
+            "stars": 2467,
             "topics": [
               "dynamic-documents",
               "knitr",
@@ -2002,7 +2002,7 @@
             "open_issues": 866,
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5686,
+            "stars": 5687,
             "topics": [
               "r",
               "reactive",
@@ -2521,8 +2521,8 @@
             "id": 63273973,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T23:10:22Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-16T13:59:30Z",
+            "open_issues": 73,
             "owner": "r-dbi",
             "repo": "odbc",
             "stars": 416,
@@ -2814,10 +2814,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T21:22:30Z",
-            "open_issues": 454,
+            "open_issues": 455,
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20403,
+            "stars": 20405,
             "topics": [
               "forecasting",
               "python",
@@ -2884,7 +2884,7 @@
             "open_issues": 31,
             "owner": "google",
             "repo": "CausalImpact",
-            "stars": 1860,
+            "stars": 1861,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -3062,7 +3062,7 @@
             "open_issues": 0,
             "owner": "tqchen",
             "repo": "xgboost",
-            "stars": 581,
+            "stars": 582,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -3406,7 +3406,7 @@
             "open_issues": 19,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4113,
+            "stars": 4115,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3525,7 +3525,7 @@
             "open_issues": 142,
             "owner": "dkahle",
             "repo": "ggmap",
-            "stars": 778,
+            "stars": 779,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -3605,7 +3605,7 @@
             "id": 22839956,
             "language": "R",
             "license": null,
-            "last_commit": "2026-08-30T01:07:12Z",
+            "last_commit": "2026-09-17T03:51:21Z",
             "open_issues": 0,
             "owner": "spatstat",
             "repo": "spatstat",
@@ -3740,7 +3740,7 @@
             "id": 159560389,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-16T00:23:10Z",
+            "last_commit": "2026-09-17T02:53:19Z",
             "open_issues": 217,
             "owner": "rstudio",
             "repo": "renv",
@@ -4154,7 +4154,7 @@
             "open_issues": 30,
             "owner": "jalapic",
             "repo": "engsoccerdata",
-            "stars": 782,
+            "stars": 783,
             "topics": [
               "data-science",
               "data-visualization",
@@ -4396,7 +4396,7 @@
                 "open_issues": 29,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6509,
+                "stars": 6511,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4425,7 +4425,7 @@
                 "open_issues": 19,
                 "owner": "briatte",
                 "repo": "awesome-network-analysis",
-                "stars": 4113,
+                "stars": 4115,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4710,10 +4710,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-27T21:22:30Z",
-                "open_issues": 454,
+                "open_issues": 455,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20403,
+                "stars": 20405,
                 "topics": [
                   "forecasting",
                   "python",
@@ -5082,7 +5082,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33675,
+            "stars": 33677,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5103,7 +5103,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11485,
+            "stars": 11487,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5146,7 +5146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T04:58:35.061Z",
+    "last_updated": "2026-09-17T05:01:02.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
@@ -5158,7 +5158,7 @@
       "open_issues": 29,
       "owner": "qinwf",
       "repo": "awesome-R",
-      "stars": 6509,
+      "stars": 6511,
       "topics": [
         "awesome",
         "awesome-list",
