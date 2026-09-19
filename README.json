@@ -100,7 +100,7 @@
             "open_issues": 210,
             "owner": "randy3k",
             "repo": "radian",
-            "stars": 2288,
+            "stars": 2289,
             "topics": [
               "cli",
               "console",
@@ -346,8 +346,8 @@
             "id": 20597509,
             "language": "R",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-10T09:31:38Z",
-            "open_issues": 982,
+            "last_commit": "2026-09-18T21:17:07Z",
+            "open_issues": 984,
             "owner": "Rdatatable",
             "repo": "data.table",
             "stars": 3919,
@@ -1816,8 +1816,8 @@
             "id": 2594513,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-18T04:20:40Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-19T04:43:40Z",
+            "open_issues": 27,
             "owner": "yihui",
             "repo": "knitr",
             "stars": 2467,
@@ -2817,7 +2817,7 @@
             "open_issues": 455,
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20406,
+            "stars": 20407,
             "topics": [
               "forecasting",
               "python",
@@ -2943,8 +2943,8 @@
             "id": 146200962,
             "language": "R",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-15T16:06:42Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-18T16:04:43Z",
+            "open_issues": 35,
             "owner": "mlr-org",
             "repo": "mlr3",
             "stars": 1078,
@@ -2976,7 +2976,7 @@
             "open_issues": 108,
             "owner": "imbs-hl",
             "repo": "ranger",
-            "stars": 814,
+            "stars": 815,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -3740,8 +3740,8 @@
             "id": 159560389,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-17T02:53:19Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-18T22:32:58Z",
+            "open_issues": 219,
             "owner": "rstudio",
             "repo": "renv",
             "stars": 1162,
@@ -3787,7 +3787,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T21:23:44Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "r-lib",
             "repo": "testthat",
             "stars": 939,
@@ -4396,7 +4396,7 @@
                 "open_issues": 29,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6511,
+                "stars": 6512,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4713,7 +4713,7 @@
                 "open_issues": 455,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20406,
+                "stars": 20407,
                 "topics": [
                   "forecasting",
                   "python",
@@ -5082,7 +5082,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33679,
+            "stars": 33681,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5103,7 +5103,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11488,
+            "stars": 11492,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5146,7 +5146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T04:54:06.418Z",
+    "last_updated": "2026-09-19T04:45:43.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
@@ -5158,7 +5158,7 @@
       "open_issues": 29,
       "owner": "qinwf",
       "repo": "awesome-R",
-      "stars": 6511,
+      "stars": 6512,
       "topics": [
         "awesome",
         "awesome-list",
