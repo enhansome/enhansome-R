@@ -62,7 +62,7 @@
             "id": 161399255,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T20:11:23Z",
+            "last_commit": "2026-09-19T18:51:45Z",
             "open_issues": 73,
             "owner": "tidyverse",
             "repo": "vroom",
@@ -129,7 +129,7 @@
             "open_issues": 75,
             "owner": "IRkernel",
             "repo": "IRkernel",
-            "stars": 1699,
+            "stars": 1698,
             "topics": [
               "jupyter",
               "jupyter-kernels",
@@ -225,11 +225,11 @@
             "id": 27309729,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-22T18:58:16Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-19T14:49:33Z",
+            "open_issues": 41,
             "owner": "tidyverse",
             "repo": "purrr",
-            "stars": 1404,
+            "stars": 1406,
             "topics": [
               "functional-programming",
               "r"
@@ -325,7 +325,7 @@
             "open_issues": 94,
             "owner": "tidyverse",
             "repo": "dplyr",
-            "stars": 5067,
+            "stars": 5068,
             "topics": [
               "data-manipulation",
               "grammar",
@@ -371,7 +371,7 @@
             "open_issues": 16,
             "owner": "tidyverse",
             "repo": "tidyverse",
-            "stars": 1801,
+            "stars": 1800,
             "topics": [
               "data-science",
               "r",
@@ -420,7 +420,7 @@
             "open_issues": 123,
             "owner": "tidyverse",
             "repo": "lubridate",
-            "stars": 803,
+            "stars": 804,
             "topics": [
               "date",
               "date-time",
@@ -720,7 +720,7 @@
             "id": 161399255,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T20:11:23Z",
+            "last_commit": "2026-09-19T18:51:45Z",
             "open_issues": 73,
             "owner": "tidyverse",
             "repo": "vroom",
@@ -1222,7 +1222,7 @@
             "open_issues": 37,
             "owner": "nx10",
             "repo": "httpgd",
-            "stars": 507,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -1816,8 +1816,8 @@
             "id": 2594513,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-19T04:43:40Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-20T04:57:08Z",
+            "open_issues": 13,
             "owner": "yihui",
             "repo": "knitr",
             "stars": 2467,
@@ -1849,7 +1849,7 @@
             "open_issues": 27,
             "owner": "rstudio",
             "repo": "tinytex",
-            "stars": 1164,
+            "stars": 1165,
             "topics": [
               "latex",
               "r-package",
@@ -2002,7 +2002,7 @@
             "open_issues": 867,
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5690,
+            "stars": 5691,
             "topics": [
               "r",
               "reactive",
@@ -2817,7 +2817,7 @@
             "open_issues": 455,
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20407,
+            "stars": 20409,
             "topics": [
               "forecasting",
               "python",
@@ -3696,7 +3696,7 @@
             "open_issues": 10,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2518,
+            "stars": 2519,
             "topics": [
               "package-creation",
               "r"
@@ -3740,7 +3740,7 @@
             "id": 159560389,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:32:58Z",
+            "last_commit": "2026-09-19T07:10:31Z",
             "open_issues": 219,
             "owner": "rstudio",
             "repo": "renv",
@@ -4154,7 +4154,7 @@
             "open_issues": 30,
             "owner": "jalapic",
             "repo": "engsoccerdata",
-            "stars": 783,
+            "stars": 782,
             "topics": [
               "data-science",
               "data-visualization",
@@ -4713,7 +4713,7 @@
                 "open_issues": 455,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20407,
+                "stars": 20409,
                 "topics": [
                   "forecasting",
                   "python",
@@ -4764,7 +4764,7 @@
                 "open_issues": 16,
                 "owner": "tidyverse",
                 "repo": "tidyverse",
-                "stars": 1801,
+                "stars": 1800,
                 "topics": [
                   "data-science",
                   "r",
@@ -4867,11 +4867,11 @@
                 "id": 27309729,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-22T18:58:16Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-19T14:49:33Z",
+                "open_issues": 41,
                 "owner": "tidyverse",
                 "repo": "purrr",
-                "stars": 1404,
+                "stars": 1406,
                 "topics": [
                   "functional-programming",
                   "r"
@@ -5082,7 +5082,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33681,
+            "stars": 33680,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5103,7 +5103,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11492,
+            "stars": 11497,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5146,7 +5146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:45:43.041Z",
+    "last_updated": "2026-09-20T05:02:14.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
