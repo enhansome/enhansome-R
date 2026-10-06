@@ -1053,8 +1053,8 @@
             "id": 81667483,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-19T13:43:33Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-06T08:50:05Z",
+            "open_issues": 34,
             "owner": "hrbrmstr",
             "repo": "hrbrthemes",
             "stars": 1355,
@@ -2794,7 +2794,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20804,
+            "stars": 20805,
             "topics": [
               "mxnet"
             ]
@@ -2817,7 +2817,7 @@
             "open_issues": 448,
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20429,
+            "stars": 20430,
             "topics": [
               "forecasting",
               "python",
@@ -3177,8 +3177,8 @@
             "id": 5424649,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T01:29:27Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-06T08:42:24Z",
+            "open_issues": 54,
             "owner": "quanteda",
             "repo": "quanteda",
             "stars": 891,
@@ -3716,7 +3716,7 @@
             "id": 24548375,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T22:12:12Z",
+            "last_commit": "2026-10-06T08:31:29Z",
             "open_issues": 298,
             "owner": "r-lib",
             "repo": "lintr",
@@ -3860,7 +3860,7 @@
             "open_issues": 5,
             "owner": "r-lib",
             "repo": "roxygen2",
-            "stars": 662,
+            "stars": 663,
             "topics": [
               "devtools",
               "documentation",
@@ -4684,7 +4684,7 @@
                 "open_issues": 448,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20429,
+                "stars": 20430,
                 "topics": [
                   "forecasting",
                   "python",
@@ -4862,8 +4862,8 @@
                 "id": 81667483,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-04-19T13:43:33Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-06T08:50:05Z",
+                "open_issues": 34,
                 "owner": "hrbrmstr",
                 "repo": "hrbrthemes",
                 "stars": 1355,
@@ -4914,7 +4914,7 @@
                 "id": 24548375,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T22:12:12Z",
+                "last_commit": "2026-10-06T08:31:29Z",
                 "open_issues": 298,
                 "owner": "r-lib",
                 "repo": "lintr",
@@ -5074,7 +5074,7 @@
             "open_issues": 33,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11527,
+            "stars": 11528,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5117,7 +5117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:33:05.948Z",
+    "last_updated": "2026-10-06T10:25:17.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
