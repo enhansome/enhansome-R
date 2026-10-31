@@ -15,7 +15,7 @@
             "id": 133241343,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-30T03:04:52Z",
+            "last_commit": "2026-10-30T11:37:12Z",
             "open_issues": 48,
             "owner": "tylermorganwall",
             "repo": "rayshader",
@@ -225,8 +225,8 @@
             "id": 27309729,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T13:24:06Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-30T21:35:24Z",
+            "open_issues": 14,
             "owner": "tidyverse",
             "repo": "purrr",
             "stars": 1411,
@@ -839,7 +839,7 @@
             "open_issues": 124,
             "owner": "jeroen",
             "repo": "jsonlite",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "json",
               "parser",
@@ -1495,7 +1495,7 @@
             "open_issues": 378,
             "owner": "ramnathv",
             "repo": "rCharts",
-            "stars": 1182,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -1782,8 +1782,8 @@
             "id": 37119784,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-16T20:37:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T17:10:31Z",
+            "open_issues": 4,
             "owner": "juba",
             "repo": "scatterD3",
             "stars": 162,
@@ -1820,7 +1820,7 @@
             "open_issues": 4,
             "owner": "yihui",
             "repo": "knitr",
-            "stars": 2470,
+            "stars": 2471,
             "topics": [
               "dynamic-documents",
               "knitr",
@@ -2002,7 +2002,7 @@
             "open_issues": 900,
             "owner": "rstudio",
             "repo": "shiny",
-            "stars": 5707,
+            "stars": 5706,
             "topics": [
               "r",
               "reactive",
@@ -2173,11 +2173,11 @@
             "id": 26573769,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T09:24:15Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-30T19:47:13Z",
+            "open_issues": 13,
             "owner": "jeroen",
             "repo": "curl",
-            "stars": 234,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -2408,7 +2408,7 @@
             "open_issues": 18,
             "owner": "jeroen",
             "repo": "V8",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "cran",
               "javascript",
@@ -2601,7 +2601,7 @@
             "open_issues": 78,
             "owner": "jeroen",
             "repo": "mongolite",
-            "stars": 289,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -2814,10 +2814,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-22T11:32:07Z",
-            "open_issues": 459,
+            "open_issues": 460,
             "owner": "meta",
             "repo": "prophet",
-            "stars": 20465,
+            "stars": 20466,
             "topics": [
               "forecasting",
               "python",
@@ -2943,8 +2943,8 @@
             "id": 146200962,
             "language": "R",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-29T15:07:39Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-30T10:40:13Z",
+            "open_issues": 30,
             "owner": "mlr-org",
             "repo": "mlr3",
             "stars": 1084,
@@ -3181,7 +3181,7 @@
             "open_issues": 56,
             "owner": "quanteda",
             "repo": "quanteda",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "corpus",
               "natural-language-processing",
@@ -3406,7 +3406,7 @@
             "open_issues": 23,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4138,
+            "stars": 4140,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3717,7 +3717,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-10-29T14:42:53Z",
-            "open_issues": 250,
+            "open_issues": 251,
             "owner": "r-lib",
             "repo": "lintr",
             "stars": 1301,
@@ -3744,7 +3744,7 @@
             "open_issues": 200,
             "owner": "rstudio",
             "repo": "renv",
-            "stars": 1165,
+            "stars": 1166,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -4363,7 +4363,7 @@
                     "open_issues": 3,
                     "owner": "romantseg",
                     "repo": "rbooks",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:32:02.539Z"
@@ -4396,7 +4396,7 @@
                 "open_issues": 23,
                 "owner": "briatte",
                 "repo": "awesome-network-analysis",
-                "stars": 4138,
+                "stars": 4140,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4475,7 +4475,7 @@
                 "open_issues": 3,
                 "owner": "romantseg",
                 "repo": "rbooks",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:02.539Z"
@@ -4681,10 +4681,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-22T11:32:07Z",
-                "open_issues": 459,
+                "open_issues": 460,
                 "owner": "meta",
                 "repo": "prophet",
-                "stars": 20465,
+                "stars": 20466,
                 "topics": [
                   "forecasting",
                   "python",
@@ -4838,8 +4838,8 @@
                 "id": 27309729,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T13:24:06Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-30T21:35:24Z",
+                "open_issues": 14,
                 "owner": "tidyverse",
                 "repo": "purrr",
                 "stars": 1411,
@@ -4915,7 +4915,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T14:42:53Z",
-                "open_issues": 250,
+                "open_issues": 251,
                 "owner": "r-lib",
                 "repo": "lintr",
                 "stars": 1301,
@@ -5070,11 +5070,11 @@
             "id": 14408715,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-29T19:14:47Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-30T21:52:58Z",
+            "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11612,
+            "stars": 11617,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5117,7 +5117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:01:49.647Z",
+    "last_updated": "2026-10-31T05:57:19.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
@@ -5129,7 +5129,7 @@
       "open_issues": 30,
       "owner": "qinwf",
       "repo": "awesome-R",
-      "stars": 6536,
+      "stars": 6537,
       "topics": [
         "awesome",
         "awesome-list",
