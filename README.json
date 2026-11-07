@@ -253,7 +253,7 @@
             "open_issues": 28,
             "owner": "tidyverse",
             "repo": "magrittr",
-            "stars": 972,
+            "stars": 971,
             "topics": [
               "pipe",
               "r"
@@ -325,7 +325,7 @@
             "open_issues": 94,
             "owner": "tidyverse",
             "repo": "dplyr",
-            "stars": 5078,
+            "stars": 5079,
             "topics": [
               "data-manipulation",
               "grammar",
@@ -942,11 +942,11 @@
             "id": 19438,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T10:26:47Z",
-            "open_issues": 114,
+            "last_commit": "2026-11-06T13:37:44Z",
+            "open_issues": 116,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 7024,
+            "stars": 7025,
             "topics": [
               "data-visualisation",
               "r",
@@ -1057,7 +1057,7 @@
             "open_issues": 33,
             "owner": "hrbrmstr",
             "repo": "hrbrthemes",
-            "stars": 1357,
+            "stars": 1359,
             "topics": [
               "data-visualization",
               "datavisualization",
@@ -1115,7 +1115,7 @@
             "open_issues": 172,
             "owner": "YuLab-SMU",
             "repo": "ggtree",
-            "stars": 935,
+            "stars": 936,
             "topics": [
               "annotations",
               "ggplot2",
@@ -1467,7 +1467,7 @@
             "open_issues": 172,
             "owner": "rich-iannone",
             "repo": "DiagrammeR",
-            "stars": 1752,
+            "stars": 1751,
             "topics": [
               "graph",
               "graph-functions",
@@ -1849,7 +1849,7 @@
             "open_issues": 26,
             "owner": "rstudio",
             "repo": "tinytex",
-            "stars": 1180,
+            "stars": 1181,
             "topics": [
               "latex",
               "r-package",
@@ -1874,7 +1874,7 @@
             "open_issues": 177,
             "owner": "ramnathv",
             "repo": "slidify",
-            "stars": 842,
+            "stars": 843,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -1998,8 +1998,8 @@
             "id": 4729944,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T21:08:29Z",
-            "open_issues": 901,
+            "last_commit": "2026-11-06T21:43:34Z",
+            "open_issues": 877,
             "owner": "rstudio",
             "repo": "shiny",
             "stars": 5706,
@@ -2794,7 +2794,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20793,
+            "stars": 20792,
             "topics": [
               "mxnet"
             ]
@@ -2814,7 +2814,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T02:14:29Z",
-            "open_issues": 464,
+            "open_issues": 465,
             "owner": "meta",
             "repo": "prophet",
             "stars": 20474,
@@ -2943,8 +2943,8 @@
             "id": 146200962,
             "language": "R",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-30T10:40:13Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-06T11:12:43Z",
+            "open_issues": 25,
             "owner": "mlr-org",
             "repo": "mlr3",
             "stars": 1083,
@@ -3177,7 +3177,7 @@
             "id": 5424649,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T04:51:30Z",
+            "last_commit": "2026-11-06T08:37:28Z",
             "open_issues": 57,
             "owner": "quanteda",
             "repo": "quanteda",
@@ -4154,7 +4154,7 @@
             "open_issues": 30,
             "owner": "jalapic",
             "repo": "engsoccerdata",
-            "stars": 785,
+            "stars": 786,
             "topics": [
               "data-science",
               "data-visualization",
@@ -4454,7 +4454,7 @@
                 "open_issues": 6,
                 "owner": "rstudio",
                 "repo": "RStartHere",
-                "stars": 658,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:02.539Z"
@@ -4681,7 +4681,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T02:14:29Z",
-                "open_issues": 464,
+                "open_issues": 465,
                 "owner": "meta",
                 "repo": "prophet",
                 "stars": 20474,
@@ -4785,8 +4785,8 @@
                 "id": 81120794,
                 "language": "R",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T17:18:41Z",
-                "open_issues": 478,
+                "last_commit": "2026-11-06T12:51:11Z",
+                "open_issues": 477,
                 "owner": "rstudio",
                 "repo": "reticulate",
                 "stars": 1766,
@@ -4866,7 +4866,7 @@
                 "open_issues": 33,
                 "owner": "hrbrmstr",
                 "repo": "hrbrthemes",
-                "stars": 1357,
+                "stars": 1359,
                 "topics": [
                   "data-visualization",
                   "datavisualization",
@@ -5053,7 +5053,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33770,
+            "stars": 33771,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:02.539Z"
@@ -5074,7 +5074,7 @@
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11636,
+            "stars": 11638,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5117,7 +5117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:01:06.741Z",
+    "last_updated": "2026-11-07T06:13:55.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome R packages, frameworks and software.",
@@ -5129,7 +5129,7 @@
       "open_issues": 30,
       "owner": "qinwf",
       "repo": "awesome-R",
-      "stars": 6539,
+      "stars": 6540,
       "topics": [
         "awesome",
         "awesome-list",
